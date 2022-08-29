@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="IoXDBModelStoreContainer" CdmEntityContainer="IoXDBContext">
+    <EntitySetMapping Name="Pins">
+      <EntityTypeMapping TypeName="IoXDBModel.Pin">
+        <MappingFragment StoreEntitySet="Pin">
+          <ScalarProperty Name="PinId" ColumnName="PinId" />
+          <ScalarProperty Name="PinName" ColumnName="PinName" />
+          <ScalarProperty Name="ThingId" ColumnName="ThingId" />
+          <ScalarProperty Name="PinType" ColumnName="PinType" />
+          <ScalarProperty Name="OnOff" ColumnName="OnOff" />
+          <ScalarProperty Name="Magnitude" ColumnName="Magnitude" />
+          <ScalarProperty Name="OnFrom" ColumnName="OnFrom" />
+          <ScalarProperty Name="OnTill" ColumnName="OnTill" />
+          <ScalarProperty Name="LastModified" ColumnName="LastModified" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Things">
+      <EntityTypeMapping TypeName="IoXDBModel.Thing">
+        <MappingFragment StoreEntitySet="Thing">
+          <ScalarProperty Name="ThingId" ColumnName="ThingId" />
+          <ScalarProperty Name="ThingName" ColumnName="ThingName" />
+          <ScalarProperty Name="ExtraInfo" ColumnName="ExtraInfo" />
+          <ScalarProperty Name="IsDeleted" ColumnName="IsDeleted" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

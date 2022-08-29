@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="IoXDBModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Pin">
+    <Key>
+      <PropertyRef Name="PinId" />
+    </Key>
+    <Property Name="PinId" Type="smallint" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="PinName" Type="nvarchar" MaxLength="30" Nullable="false" />
+    <Property Name="ThingId" Type="int" Nullable="false" />
+    <Property Name="PinType" Type="nvarchar" MaxLength="20" />
+    <Property Name="OnOff" Type="bit" />
+    <Property Name="Magnitude" Type="int" />
+    <Property Name="OnFrom" Type="datetime" />
+    <Property Name="OnTill" Type="datetime" />
+    <Property Name="LastModified" Type="timestamp" StoreGeneratedPattern="Computed" />
+  </EntityType>
+  <EntityType Name="Thing">
+    <Key>
+      <PropertyRef Name="ThingId" />
+    </Key>
+    <Property Name="ThingId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="ThingName" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="ExtraInfo" Type="nvarchar" MaxLength="1000" />
+    <Property Name="IsDeleted" Type="bit" />
+  </EntityType>
+  <Association Name="FK__Pin__ThingId__5EBF139D">
+    <End Role="Thing" Type="Self.Thing" Multiplicity="1" />
+    <End Role="Pin" Type="Self.Pin" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Thing">
+        <PropertyRef Name="ThingId" />
+      </Principal>
+      <Dependent Role="Pin">
+        <PropertyRef Name="ThingId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="IoXDBModelStoreContainer">
+    <EntitySet Name="Pin" EntityType="Self.Pin" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Thing" EntityType="Self.Thing" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK__Pin__ThingId__5EBF139D" Association="Self.FK__Pin__ThingId__5EBF139D">
+      <End Role="Thing" EntitySet="Thing" />
+      <End Role="Pin" EntitySet="Pin" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

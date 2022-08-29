@@ -1,0 +1,62 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+
+</head>
+<body>
+    <nav class="navbar navbar-expand-md navbar-light fixed-top" style="background-color: #e3f2fd;">
+
+        <a href="@Url.Action("Index","Home")"><img src="~/favicon.ico" alt="ioxlogo" style="width:50px;" />&nbsp;IoX Prime</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation" onclick="toggleFunc(this)">
+            <div class="xmenucontainer">
+                <div class="xmenu-bar1"></div>
+                <div class="xmenu-bar2"></div>
+                <div class="xmenu-bar3"></div>
+            </div>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav mr-auto">
+                <li class="nav-item"><a href="@Url.Action("DemoDocumentation","Home")" class="nav-link"><i class="fa fa-soccer-ball-o">&nbsp;Demos</i></a></li>
+                <li class="nav-item"><a href="@Url.Action("Index","PopulateThing")" class="nav-link"><i class="fa fa-gavel">&nbsp;Dashboard</i></a></li>
+            </ul>
+            @Html.Partial("_LoginPartial")
+        </div>
+    </nav>
+    <br />
+    <div class="container body-content">
+        @RenderBody()
+        <br /><br /><br /><br /><br />
+    </div>
+    <footer class="container-fluid" style="bottom: 0px;width: 100%; position:fixed;background-image: linear-gradient(#aaaaaa, #eeeeee); border:#999999 solid;">
+        @Html.ActionLink("Contact", "Contact", "Home", null, new { @class = "" })
+        &nbsp;
+        @Html.ActionLink("Terms & Conditions", "TermsConditions", "Home", null, new { @class = "" })
+        &nbsp;
+        @Html.ActionLink("Privacy Policy", "PrivacyPolicy", "Home", null, new { @class = "" })
+        &nbsp;
+
+        <p>
+            <strong>&copy; @DateTime.Now.Year IoX Prime</strong>
+            |
+            <img src="~/Assets/BeMoreLike.PNG" />
+            @*<small>
+                    Connect your every single Things to our one (going to be super-giant) network
+                    and be more like Tony Stark!
+                </small>*@
+        </p>
+    </footer>
+    <script>
+        function toggleFunc(obj1) {
+            obj1.classList.toggle("xmenuchange");
+        }
+    </script>
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+</body>
+</html>

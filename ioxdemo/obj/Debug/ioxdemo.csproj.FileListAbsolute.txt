@@ -1,0 +1,1237 @@
+D:\ioxdemo\ioxdemo\bin\ApplicationInsights.config
+D:\ioxdemo\ioxdemo\bin\ioxdemo.dll.config
+D:\ioxdemo\ioxdemo\bin\ioxdemo.dll
+D:\ioxdemo\ioxdemo\bin\ioxdemo.pdb
+D:\ioxdemo\ioxdemo\bin\Antlr3.Runtime.dll
+D:\ioxdemo\ioxdemo\bin\EntityFramework.dll
+D:\ioxdemo\ioxdemo\bin\EntityFramework.SqlServer.dll
+D:\ioxdemo\ioxdemo\bin\Microsoft.AI.Agent.Intercept.dll
+D:\ioxdemo\ioxdemo\bin\Microsoft.AI.DependencyCollector.dll
+D:\ioxdemo\ioxdemo\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\ioxdemo\ioxdemo\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\ioxdemo\ioxdemo\bin\Microsoft.AI.Web.dll
+D:\ioxdemo\ioxdemo\bin\Microsoft.AI.WindowsServer.dll
+D:\ioxdemo\ioxdemo\bin\Microsoft.ApplicationInsights.dll
+D:\ioxdemo\ioxdemo\bin\Microsoft.AspNet.Identity.Core.dll
+D:\ioxdemo\ioxdemo\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\ioxdemo\ioxdemo\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\ioxdemo\ioxdemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ioxdemo\ioxdemo\bin\Microsoft.Owin.dll
+D:\ioxdemo\ioxdemo\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\ioxdemo\ioxdemo\bin\Microsoft.Owin.Security.Cookies.dll
+D:\ioxdemo\ioxdemo\bin\Microsoft.Owin.Security.dll
+D:\ioxdemo\ioxdemo\bin\Microsoft.Owin.Security.Facebook.dll
+D:\ioxdemo\ioxdemo\bin\Microsoft.Owin.Security.Google.dll
+D:\ioxdemo\ioxdemo\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\ioxdemo\ioxdemo\bin\Microsoft.Owin.Security.OAuth.dll
+D:\ioxdemo\ioxdemo\bin\Microsoft.Owin.Security.Twitter.dll
+D:\ioxdemo\ioxdemo\bin\Microsoft.Web.Infrastructure.dll
+D:\ioxdemo\ioxdemo\bin\Newtonsoft.Json.dll
+D:\ioxdemo\ioxdemo\bin\Owin.dll
+D:\ioxdemo\ioxdemo\bin\System.Web.Helpers.dll
+D:\ioxdemo\ioxdemo\bin\System.Web.Mvc.dll
+D:\ioxdemo\ioxdemo\bin\System.Web.Optimization.dll
+D:\ioxdemo\ioxdemo\bin\System.Web.Razor.dll
+D:\ioxdemo\ioxdemo\bin\System.Web.WebPages.Deployment.dll
+D:\ioxdemo\ioxdemo\bin\System.Web.WebPages.dll
+D:\ioxdemo\ioxdemo\bin\System.Web.WebPages.Razor.dll
+D:\ioxdemo\ioxdemo\bin\WebGrease.dll
+D:\ioxdemo\ioxdemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ioxdemo\ioxdemo\bin\System.Web.Helpers.xml
+D:\ioxdemo\ioxdemo\bin\System.Web.Mvc.xml
+D:\ioxdemo\ioxdemo\bin\System.Web.Optimization.xml
+D:\ioxdemo\ioxdemo\bin\System.Web.Razor.xml
+D:\ioxdemo\ioxdemo\bin\System.Web.WebPages.xml
+D:\ioxdemo\ioxdemo\bin\System.Web.WebPages.Deployment.xml
+D:\ioxdemo\ioxdemo\bin\System.Web.WebPages.Razor.xml
+D:\ioxdemo\ioxdemo\bin\Antlr3.Runtime.pdb
+D:\ioxdemo\ioxdemo\bin\Newtonsoft.Json.xml
+D:\ioxdemo\ioxdemo\bin\EntityFramework.xml
+D:\ioxdemo\ioxdemo\bin\EntityFramework.SqlServer.xml
+D:\ioxdemo\ioxdemo\bin\Microsoft.AspNet.Identity.Core.xml
+D:\ioxdemo\ioxdemo\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\ioxdemo\ioxdemo\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\ioxdemo\ioxdemo\bin\Microsoft.Owin.xml
+D:\ioxdemo\ioxdemo\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\ioxdemo\ioxdemo\bin\Microsoft.Owin.Security.xml
+D:\ioxdemo\ioxdemo\bin\Microsoft.Owin.Security.Facebook.xml
+D:\ioxdemo\ioxdemo\bin\Microsoft.Owin.Security.Cookies.xml
+D:\ioxdemo\ioxdemo\bin\Microsoft.Owin.Security.OAuth.xml
+D:\ioxdemo\ioxdemo\bin\Microsoft.Owin.Security.Google.xml
+D:\ioxdemo\ioxdemo\bin\Microsoft.Owin.Security.Twitter.xml
+D:\ioxdemo\ioxdemo\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\ioxdemo\ioxdemo\bin\Microsoft.ApplicationInsights.xml
+D:\ioxdemo\ioxdemo\bin\Microsoft.AI.DependencyCollector.xml
+D:\ioxdemo\ioxdemo\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\ioxdemo\ioxdemo\bin\Microsoft.AI.WindowsServer.xml
+D:\ioxdemo\ioxdemo\bin\Microsoft.AI.Web.xml
+D:\ioxdemo\ioxdemo\obj\Debug\ioxdemo.csprojResolveAssemblyReference.cache
+D:\ioxdemo\ioxdemo\obj\Debug\ioxdemo.csproj.CoreCompileInputs.cache
+D:\ioxdemo\ioxdemo\obj\Debug\ioxdemo.dll
+D:\ioxdemo\ioxdemo\obj\Debug\ioxdemo.pdb
+D:\Training\ioxdemo\ioxdemo\bin\ApplicationInsights.config
+D:\Training\ioxdemo\ioxdemo\bin\ioxdemo.dll.config
+D:\Training\ioxdemo\ioxdemo\bin\ioxdemo.dll
+D:\Training\ioxdemo\ioxdemo\bin\ioxdemo.pdb
+D:\Training\ioxdemo\ioxdemo\bin\Antlr3.Runtime.dll
+D:\Training\ioxdemo\ioxdemo\bin\EntityFramework.dll
+D:\Training\ioxdemo\ioxdemo\bin\EntityFramework.SqlServer.dll
+D:\Training\ioxdemo\ioxdemo\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Training\ioxdemo\ioxdemo\bin\Microsoft.AI.DependencyCollector.dll
+D:\Training\ioxdemo\ioxdemo\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Training\ioxdemo\ioxdemo\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Training\ioxdemo\ioxdemo\bin\Microsoft.AI.Web.dll
+D:\Training\ioxdemo\ioxdemo\bin\Microsoft.AI.WindowsServer.dll
+D:\Training\ioxdemo\ioxdemo\bin\Microsoft.ApplicationInsights.dll
+D:\Training\ioxdemo\ioxdemo\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Training\ioxdemo\ioxdemo\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Training\ioxdemo\ioxdemo\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Training\ioxdemo\ioxdemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Training\ioxdemo\ioxdemo\bin\Microsoft.Owin.dll
+D:\Training\ioxdemo\ioxdemo\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Training\ioxdemo\ioxdemo\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Training\ioxdemo\ioxdemo\bin\Microsoft.Owin.Security.dll
+D:\Training\ioxdemo\ioxdemo\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Training\ioxdemo\ioxdemo\bin\Microsoft.Owin.Security.Google.dll
+D:\Training\ioxdemo\ioxdemo\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Training\ioxdemo\ioxdemo\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Training\ioxdemo\ioxdemo\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Training\ioxdemo\ioxdemo\bin\Microsoft.Web.Infrastructure.dll
+D:\Training\ioxdemo\ioxdemo\bin\Newtonsoft.Json.dll
+D:\Training\ioxdemo\ioxdemo\bin\Owin.dll
+D:\Training\ioxdemo\ioxdemo\bin\System.Web.Helpers.dll
+D:\Training\ioxdemo\ioxdemo\bin\System.Web.Mvc.dll
+D:\Training\ioxdemo\ioxdemo\bin\System.Web.Optimization.dll
+D:\Training\ioxdemo\ioxdemo\bin\System.Web.Razor.dll
+D:\Training\ioxdemo\ioxdemo\bin\System.Web.WebPages.Deployment.dll
+D:\Training\ioxdemo\ioxdemo\bin\System.Web.WebPages.dll
+D:\Training\ioxdemo\ioxdemo\bin\System.Web.WebPages.Razor.dll
+D:\Training\ioxdemo\ioxdemo\bin\WebGrease.dll
+D:\Training\ioxdemo\ioxdemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Training\ioxdemo\ioxdemo\bin\System.Web.Helpers.xml
+D:\Training\ioxdemo\ioxdemo\bin\System.Web.Mvc.xml
+D:\Training\ioxdemo\ioxdemo\bin\System.Web.Optimization.xml
+D:\Training\ioxdemo\ioxdemo\bin\System.Web.Razor.xml
+D:\Training\ioxdemo\ioxdemo\bin\System.Web.WebPages.xml
+D:\Training\ioxdemo\ioxdemo\bin\System.Web.WebPages.Deployment.xml
+D:\Training\ioxdemo\ioxdemo\bin\System.Web.WebPages.Razor.xml
+D:\Training\ioxdemo\ioxdemo\bin\Antlr3.Runtime.pdb
+D:\Training\ioxdemo\ioxdemo\bin\Newtonsoft.Json.xml
+D:\Training\ioxdemo\ioxdemo\bin\EntityFramework.xml
+D:\Training\ioxdemo\ioxdemo\bin\EntityFramework.SqlServer.xml
+D:\Training\ioxdemo\ioxdemo\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Training\ioxdemo\ioxdemo\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Training\ioxdemo\ioxdemo\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Training\ioxdemo\ioxdemo\bin\Microsoft.Owin.xml
+D:\Training\ioxdemo\ioxdemo\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Training\ioxdemo\ioxdemo\bin\Microsoft.Owin.Security.xml
+D:\Training\ioxdemo\ioxdemo\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Training\ioxdemo\ioxdemo\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Training\ioxdemo\ioxdemo\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Training\ioxdemo\ioxdemo\bin\Microsoft.Owin.Security.Google.xml
+D:\Training\ioxdemo\ioxdemo\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Training\ioxdemo\ioxdemo\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Training\ioxdemo\ioxdemo\bin\Microsoft.ApplicationInsights.xml
+D:\Training\ioxdemo\ioxdemo\bin\Microsoft.AI.DependencyCollector.xml
+D:\Training\ioxdemo\ioxdemo\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Training\ioxdemo\ioxdemo\bin\Microsoft.AI.WindowsServer.xml
+D:\Training\ioxdemo\ioxdemo\bin\Microsoft.AI.Web.xml
+D:\Training\ioxdemo\ioxdemo\obj\Debug\ioxdemo.csprojResolveAssemblyReference.cache
+D:\Training\ioxdemo\ioxdemo\obj\Debug\ioxdemo.csproj.CoreCompileInputs.cache
+D:\Training\ioxdemo\ioxdemo\obj\Debug\ioxdemo.dll
+D:\Training\ioxdemo\ioxdemo\obj\Debug\ioxdemo.pdb
+D:\Training\ioxmvc2\ioxdemo\bin\ApplicationInsights.config
+D:\Training\ioxmvc2\ioxdemo\bin\ioxdemo.dll.config
+D:\Training\ioxmvc2\ioxdemo\bin\ioxdemo.dll
+D:\Training\ioxmvc2\ioxdemo\bin\ioxdemo.pdb
+D:\Training\ioxmvc2\ioxdemo\bin\Antlr3.Runtime.dll
+D:\Training\ioxmvc2\ioxdemo\bin\EntityFramework.dll
+D:\Training\ioxmvc2\ioxdemo\bin\EntityFramework.SqlServer.dll
+D:\Training\ioxmvc2\ioxdemo\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Training\ioxmvc2\ioxdemo\bin\Microsoft.AI.DependencyCollector.dll
+D:\Training\ioxmvc2\ioxdemo\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Training\ioxmvc2\ioxdemo\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Training\ioxmvc2\ioxdemo\bin\Microsoft.AI.Web.dll
+D:\Training\ioxmvc2\ioxdemo\bin\Microsoft.AI.WindowsServer.dll
+D:\Training\ioxmvc2\ioxdemo\bin\Microsoft.ApplicationInsights.dll
+D:\Training\ioxmvc2\ioxdemo\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Training\ioxmvc2\ioxdemo\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Training\ioxmvc2\ioxdemo\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Training\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.Antiforgery.dll
+D:\Training\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.Authorization.dll
+D:\Training\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.Cors.dll
+D:\Training\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Training\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\Training\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.DataProtection.dll
+D:\Training\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\Training\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\Training\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\Training\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\Training\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\Training\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.Http.dll
+D:\Training\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.Http.Extensions.dll
+D:\Training\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.Http.Features.dll
+D:\Training\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.JsonPatch.dll
+D:\Training\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.Localization.dll
+D:\Training\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\Training\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+D:\Training\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.Mvc.Core.dll
+D:\Training\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.Mvc.Cors.dll
+D:\Training\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:\Training\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.Mvc.dll
+D:\Training\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\Training\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.Mvc.Localization.dll
+D:\Training\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.Mvc.Razor.dll
+D:\Training\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.Mvc.Razor.Host.dll
+D:\Training\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+D:\Training\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:\Training\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.Razor.dll
+D:\Training\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.Razor.Runtime.dll
+D:\Training\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\Training\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\Training\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.Routing.dll
+D:\Training\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.WebUtilities.dll
+D:\Training\ioxmvc2\ioxdemo\bin\Microsoft.CodeAnalysis.CSharp.dll
+D:\Training\ioxmvc2\ioxdemo\bin\Microsoft.CodeAnalysis.dll
+D:\Training\ioxmvc2\ioxdemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Training\ioxmvc2\ioxdemo\bin\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Training\ioxmvc2\ioxdemo\bin\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Training\ioxmvc2\ioxdemo\bin\Microsoft.Extensions.Caching.Memory.dll
+D:\Training\ioxmvc2\ioxdemo\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Training\ioxmvc2\ioxdemo\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Training\ioxmvc2\ioxdemo\bin\Microsoft.Extensions.DependencyInjection.dll
+D:\Training\ioxmvc2\ioxdemo\bin\Microsoft.Extensions.DependencyModel.dll
+D:\Training\ioxmvc2\ioxdemo\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Training\ioxmvc2\ioxdemo\bin\Microsoft.Extensions.FileProviders.Composite.dll
+D:\Training\ioxmvc2\ioxdemo\bin\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Training\ioxmvc2\ioxdemo\bin\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Training\ioxmvc2\ioxdemo\bin\Microsoft.Extensions.Globalization.CultureInfoCache.dll
+D:\Training\ioxmvc2\ioxdemo\bin\Microsoft.Extensions.Localization.Abstractions.dll
+D:\Training\ioxmvc2\ioxdemo\bin\Microsoft.Extensions.Localization.dll
+D:\Training\ioxmvc2\ioxdemo\bin\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Training\ioxmvc2\ioxdemo\bin\Microsoft.Extensions.ObjectPool.dll
+D:\Training\ioxmvc2\ioxdemo\bin\Microsoft.Extensions.Options.dll
+D:\Training\ioxmvc2\ioxdemo\bin\Microsoft.Extensions.PlatformAbstractions.dll
+D:\Training\ioxmvc2\ioxdemo\bin\Microsoft.Extensions.Primitives.dll
+D:\Training\ioxmvc2\ioxdemo\bin\Microsoft.Extensions.WebEncoders.dll
+D:\Training\ioxmvc2\ioxdemo\bin\Microsoft.Net.Http.Headers.dll
+D:\Training\ioxmvc2\ioxdemo\bin\Microsoft.Owin.dll
+D:\Training\ioxmvc2\ioxdemo\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Training\ioxmvc2\ioxdemo\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Training\ioxmvc2\ioxdemo\bin\Microsoft.Owin.Security.dll
+D:\Training\ioxmvc2\ioxdemo\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Training\ioxmvc2\ioxdemo\bin\Microsoft.Owin.Security.Google.dll
+D:\Training\ioxmvc2\ioxdemo\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Training\ioxmvc2\ioxdemo\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Training\ioxmvc2\ioxdemo\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Training\ioxmvc2\ioxdemo\bin\Microsoft.Web.Infrastructure.dll
+D:\Training\ioxmvc2\ioxdemo\bin\Microsoft.Win32.Primitives.dll
+D:\Training\ioxmvc2\ioxdemo\bin\Newtonsoft.Json.dll
+D:\Training\ioxmvc2\ioxdemo\bin\Owin.dll
+D:\Training\ioxmvc2\ioxdemo\bin\System.AppContext.dll
+D:\Training\ioxmvc2\ioxdemo\bin\System.Buffers.dll
+D:\Training\ioxmvc2\ioxdemo\bin\System.Collections.Immutable.dll
+D:\Training\ioxmvc2\ioxdemo\bin\System.Console.dll
+D:\Training\ioxmvc2\ioxdemo\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Training\ioxmvc2\ioxdemo\bin\System.Diagnostics.FileVersionInfo.dll
+D:\Training\ioxmvc2\ioxdemo\bin\System.Diagnostics.StackTrace.dll
+D:\Training\ioxmvc2\ioxdemo\bin\System.Globalization.Calendars.dll
+D:\Training\ioxmvc2\ioxdemo\bin\System.IO.Compression.dll
+D:\Training\ioxmvc2\ioxdemo\bin\System.IO.Compression.ZipFile.dll
+D:\Training\ioxmvc2\ioxdemo\bin\System.IO.FileSystem.dll
+D:\Training\ioxmvc2\ioxdemo\bin\System.IO.FileSystem.Primitives.dll
+D:\Training\ioxmvc2\ioxdemo\bin\System.Net.Http.dll
+D:\Training\ioxmvc2\ioxdemo\bin\System.Net.Http.Formatting.dll
+D:\Training\ioxmvc2\ioxdemo\bin\System.Net.Sockets.dll
+D:\Training\ioxmvc2\ioxdemo\bin\System.Reflection.Metadata.dll
+D:\Training\ioxmvc2\ioxdemo\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Training\ioxmvc2\ioxdemo\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Training\ioxmvc2\ioxdemo\bin\System.Security.Cryptography.Algorithms.dll
+D:\Training\ioxmvc2\ioxdemo\bin\System.Security.Cryptography.Encoding.dll
+D:\Training\ioxmvc2\ioxdemo\bin\System.Security.Cryptography.Primitives.dll
+D:\Training\ioxmvc2\ioxdemo\bin\System.Security.Cryptography.X509Certificates.dll
+D:\Training\ioxmvc2\ioxdemo\bin\System.Text.Encoding.CodePages.dll
+D:\Training\ioxmvc2\ioxdemo\bin\System.Text.Encodings.Web.dll
+D:\Training\ioxmvc2\ioxdemo\bin\System.Threading.Thread.dll
+D:\Training\ioxmvc2\ioxdemo\bin\System.Web.Helpers.dll
+D:\Training\ioxmvc2\ioxdemo\bin\System.Web.Mvc.dll
+D:\Training\ioxmvc2\ioxdemo\bin\System.Web.Optimization.dll
+D:\Training\ioxmvc2\ioxdemo\bin\System.Web.Razor.dll
+D:\Training\ioxmvc2\ioxdemo\bin\System.Web.WebPages.Deployment.dll
+D:\Training\ioxmvc2\ioxdemo\bin\System.Web.WebPages.dll
+D:\Training\ioxmvc2\ioxdemo\bin\System.Web.WebPages.Razor.dll
+D:\Training\ioxmvc2\ioxdemo\bin\System.Xml.ReaderWriter.dll
+D:\Training\ioxmvc2\ioxdemo\bin\System.Xml.XmlDocument.dll
+D:\Training\ioxmvc2\ioxdemo\bin\System.Xml.XPath.dll
+D:\Training\ioxmvc2\ioxdemo\bin\System.Xml.XPath.XDocument.dll
+D:\Training\ioxmvc2\ioxdemo\bin\WebGrease.dll
+D:\Training\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.Antiforgery.xml
+D:\Training\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.Authorization.xml
+D:\Training\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.Cors.xml
+D:\Training\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.Cryptography.Internal.xml
+D:\Training\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.DataProtection.xml
+D:\Training\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.DataProtection.Abstractions.xml
+D:\Training\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.Diagnostics.Abstractions.xml
+D:\Training\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+D:\Training\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+D:\Training\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.Html.Abstractions.xml
+D:\Training\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.Http.xml
+D:\Training\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+D:\Training\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.Http.Extensions.xml
+D:\Training\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.Http.Features.xml
+D:\Training\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.JsonPatch.xml
+D:\Training\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.Localization.xml
+D:\Training\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.Mvc.xml
+D:\Training\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+D:\Training\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.Mvc.ApiExplorer.xml
+D:\Training\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.Mvc.Core.xml
+D:\Training\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.Mvc.Cors.xml
+D:\Training\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.xml
+D:\Training\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.xml
+D:\Training\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.Mvc.Localization.xml
+D:\Training\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.Mvc.Razor.xml
+D:\Training\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.Mvc.Razor.Host.xml
+D:\Training\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.Mvc.TagHelpers.xml
+D:\Training\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.Mvc.ViewFeatures.xml
+D:\Training\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.Razor.xml
+D:\Training\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.Razor.Runtime.xml
+D:\Training\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+D:\Training\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.Routing.xml
+D:\Training\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+D:\Training\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.WebUtilities.xml
+D:\Training\ioxmvc2\ioxdemo\bin\Microsoft.CodeAnalysis.xml
+D:\Training\ioxmvc2\ioxdemo\bin\Microsoft.CodeAnalysis.CSharp.xml
+D:\Training\ioxmvc2\ioxdemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Training\ioxmvc2\ioxdemo\bin\Microsoft.Extensions.Caching.Abstractions.xml
+D:\Training\ioxmvc2\ioxdemo\bin\Microsoft.Extensions.Caching.Memory.xml
+D:\Training\ioxmvc2\ioxdemo\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\Training\ioxmvc2\ioxdemo\bin\Microsoft.Extensions.DependencyInjection.xml
+D:\Training\ioxmvc2\ioxdemo\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Training\ioxmvc2\ioxdemo\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\Training\ioxmvc2\ioxdemo\bin\Microsoft.Extensions.FileProviders.Composite.xml
+D:\Training\ioxmvc2\ioxdemo\bin\Microsoft.Extensions.FileProviders.Physical.xml
+D:\Training\ioxmvc2\ioxdemo\bin\Microsoft.Extensions.FileSystemGlobbing.xml
+D:\Training\ioxmvc2\ioxdemo\bin\Microsoft.Extensions.Globalization.CultureInfoCache.xml
+D:\Training\ioxmvc2\ioxdemo\bin\Microsoft.Extensions.Localization.xml
+D:\Training\ioxmvc2\ioxdemo\bin\Microsoft.Extensions.Localization.Abstractions.xml
+D:\Training\ioxmvc2\ioxdemo\bin\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Training\ioxmvc2\ioxdemo\bin\Microsoft.Extensions.ObjectPool.xml
+D:\Training\ioxmvc2\ioxdemo\bin\Microsoft.Extensions.Options.xml
+D:\Training\ioxmvc2\ioxdemo\bin\Microsoft.Extensions.PlatformAbstractions.xml
+D:\Training\ioxmvc2\ioxdemo\bin\Microsoft.Extensions.Primitives.xml
+D:\Training\ioxmvc2\ioxdemo\bin\Microsoft.Extensions.WebEncoders.xml
+D:\Training\ioxmvc2\ioxdemo\bin\Microsoft.Net.Http.Headers.xml
+D:\Training\ioxmvc2\ioxdemo\bin\Newtonsoft.Json.xml
+D:\Training\ioxmvc2\ioxdemo\bin\System.Collections.Immutable.xml
+D:\Training\ioxmvc2\ioxdemo\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Training\ioxmvc2\ioxdemo\bin\System.Net.Http.Formatting.xml
+D:\Training\ioxmvc2\ioxdemo\bin\System.Reflection.Metadata.xml
+D:\Training\ioxmvc2\ioxdemo\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Training\ioxmvc2\ioxdemo\bin\System.Text.Encodings.Web.xml
+D:\Training\ioxmvc2\ioxdemo\bin\System.Web.Helpers.xml
+D:\Training\ioxmvc2\ioxdemo\bin\System.Web.Mvc.xml
+D:\Training\ioxmvc2\ioxdemo\bin\System.Web.Optimization.xml
+D:\Training\ioxmvc2\ioxdemo\bin\System.Web.Razor.xml
+D:\Training\ioxmvc2\ioxdemo\bin\System.Web.WebPages.xml
+D:\Training\ioxmvc2\ioxdemo\bin\System.Web.WebPages.Deployment.xml
+D:\Training\ioxmvc2\ioxdemo\bin\System.Web.WebPages.Razor.xml
+D:\Training\ioxmvc2\ioxdemo\bin\Antlr3.Runtime.pdb
+D:\Training\ioxmvc2\ioxdemo\bin\EntityFramework.xml
+D:\Training\ioxmvc2\ioxdemo\bin\EntityFramework.SqlServer.xml
+D:\Training\ioxmvc2\ioxdemo\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Training\ioxmvc2\ioxdemo\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Training\ioxmvc2\ioxdemo\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Training\ioxmvc2\ioxdemo\bin\Microsoft.Owin.xml
+D:\Training\ioxmvc2\ioxdemo\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Training\ioxmvc2\ioxdemo\bin\Microsoft.Owin.Security.xml
+D:\Training\ioxmvc2\ioxdemo\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Training\ioxmvc2\ioxdemo\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Training\ioxmvc2\ioxdemo\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Training\ioxmvc2\ioxdemo\bin\Microsoft.Owin.Security.Google.xml
+D:\Training\ioxmvc2\ioxdemo\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Training\ioxmvc2\ioxdemo\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Training\ioxmvc2\ioxdemo\bin\Microsoft.ApplicationInsights.xml
+D:\Training\ioxmvc2\ioxdemo\bin\Microsoft.AI.DependencyCollector.xml
+D:\Training\ioxmvc2\ioxdemo\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Training\ioxmvc2\ioxdemo\bin\Microsoft.AI.WindowsServer.xml
+D:\Training\ioxmvc2\ioxdemo\bin\Microsoft.AI.Web.xml
+D:\Training\ioxmvc2\ioxdemo\obj\Debug\ioxdemo.csproj.CoreCompileInputs.cache
+D:\Training\ioxmvc2\ioxdemo\obj\Debug\ioxdemo.dll
+D:\Training\ioxmvc2\ioxdemo\obj\Debug\ioxdemo.pdb
+D:\Training\ioxmvc2\ioxdemo\obj\Debug\ioxdemo.csprojResolveAssemblyReference.cache
+D:\iox Prime\ioxmvc2\ioxdemo\bin\ApplicationInsights.config
+D:\iox Prime\ioxmvc2\ioxdemo\bin\ioxdemo.dll.config
+D:\iox Prime\ioxmvc2\ioxdemo\bin\ioxdemo.dll
+D:\iox Prime\ioxmvc2\ioxdemo\bin\ioxdemo.pdb
+D:\iox Prime\ioxmvc2\ioxdemo\bin\Antlr3.Runtime.dll
+D:\iox Prime\ioxmvc2\ioxdemo\bin\EntityFramework.dll
+D:\iox Prime\ioxmvc2\ioxdemo\bin\EntityFramework.SqlServer.dll
+D:\iox Prime\ioxmvc2\ioxdemo\bin\Microsoft.AI.Agent.Intercept.dll
+D:\iox Prime\ioxmvc2\ioxdemo\bin\Microsoft.AI.DependencyCollector.dll
+D:\iox Prime\ioxmvc2\ioxdemo\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\iox Prime\ioxmvc2\ioxdemo\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\iox Prime\ioxmvc2\ioxdemo\bin\Microsoft.AI.Web.dll
+D:\iox Prime\ioxmvc2\ioxdemo\bin\Microsoft.AI.WindowsServer.dll
+D:\iox Prime\ioxmvc2\ioxdemo\bin\Microsoft.ApplicationInsights.dll
+D:\iox Prime\ioxmvc2\ioxdemo\bin\Microsoft.AspNet.Identity.Core.dll
+D:\iox Prime\ioxmvc2\ioxdemo\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\iox Prime\ioxmvc2\ioxdemo\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\iox Prime\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.Antiforgery.dll
+D:\iox Prime\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.Authorization.dll
+D:\iox Prime\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.Cors.dll
+D:\iox Prime\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\iox Prime\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\iox Prime\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.DataProtection.dll
+D:\iox Prime\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\iox Prime\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\iox Prime\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\iox Prime\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\iox Prime\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\iox Prime\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.Http.dll
+D:\iox Prime\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.Http.Extensions.dll
+D:\iox Prime\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.Http.Features.dll
+D:\iox Prime\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.JsonPatch.dll
+D:\iox Prime\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.Localization.dll
+D:\iox Prime\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\iox Prime\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+D:\iox Prime\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.Mvc.Core.dll
+D:\iox Prime\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.Mvc.Cors.dll
+D:\iox Prime\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:\iox Prime\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.Mvc.dll
+D:\iox Prime\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\iox Prime\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.Mvc.Localization.dll
+D:\iox Prime\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.Mvc.Razor.dll
+D:\iox Prime\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.Mvc.Razor.Host.dll
+D:\iox Prime\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+D:\iox Prime\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:\iox Prime\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.Razor.dll
+D:\iox Prime\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.Razor.Runtime.dll
+D:\iox Prime\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\iox Prime\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\iox Prime\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.Routing.dll
+D:\iox Prime\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.WebUtilities.dll
+D:\iox Prime\ioxmvc2\ioxdemo\bin\Microsoft.CodeAnalysis.CSharp.dll
+D:\iox Prime\ioxmvc2\ioxdemo\bin\Microsoft.CodeAnalysis.dll
+D:\iox Prime\ioxmvc2\ioxdemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\iox Prime\ioxmvc2\ioxdemo\bin\Microsoft.DotNet.PlatformAbstractions.dll
+D:\iox Prime\ioxmvc2\ioxdemo\bin\Microsoft.Extensions.Caching.Abstractions.dll
+D:\iox Prime\ioxmvc2\ioxdemo\bin\Microsoft.Extensions.Caching.Memory.dll
+D:\iox Prime\ioxmvc2\ioxdemo\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\iox Prime\ioxmvc2\ioxdemo\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\iox Prime\ioxmvc2\ioxdemo\bin\Microsoft.Extensions.DependencyInjection.dll
+D:\iox Prime\ioxmvc2\ioxdemo\bin\Microsoft.Extensions.DependencyModel.dll
+D:\iox Prime\ioxmvc2\ioxdemo\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\iox Prime\ioxmvc2\ioxdemo\bin\Microsoft.Extensions.FileProviders.Composite.dll
+D:\iox Prime\ioxmvc2\ioxdemo\bin\Microsoft.Extensions.FileProviders.Physical.dll
+D:\iox Prime\ioxmvc2\ioxdemo\bin\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\iox Prime\ioxmvc2\ioxdemo\bin\Microsoft.Extensions.Globalization.CultureInfoCache.dll
+D:\iox Prime\ioxmvc2\ioxdemo\bin\Microsoft.Extensions.Localization.Abstractions.dll
+D:\iox Prime\ioxmvc2\ioxdemo\bin\Microsoft.Extensions.Localization.dll
+D:\iox Prime\ioxmvc2\ioxdemo\bin\Microsoft.Extensions.Logging.Abstractions.dll
+D:\iox Prime\ioxmvc2\ioxdemo\bin\Microsoft.Extensions.ObjectPool.dll
+D:\iox Prime\ioxmvc2\ioxdemo\bin\Microsoft.Extensions.Options.dll
+D:\iox Prime\ioxmvc2\ioxdemo\bin\Microsoft.Extensions.PlatformAbstractions.dll
+D:\iox Prime\ioxmvc2\ioxdemo\bin\Microsoft.Extensions.Primitives.dll
+D:\iox Prime\ioxmvc2\ioxdemo\bin\Microsoft.Extensions.WebEncoders.dll
+D:\iox Prime\ioxmvc2\ioxdemo\bin\Microsoft.Net.Http.Headers.dll
+D:\iox Prime\ioxmvc2\ioxdemo\bin\Microsoft.Owin.dll
+D:\iox Prime\ioxmvc2\ioxdemo\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\iox Prime\ioxmvc2\ioxdemo\bin\Microsoft.Owin.Security.Cookies.dll
+D:\iox Prime\ioxmvc2\ioxdemo\bin\Microsoft.Owin.Security.dll
+D:\iox Prime\ioxmvc2\ioxdemo\bin\Microsoft.Owin.Security.Facebook.dll
+D:\iox Prime\ioxmvc2\ioxdemo\bin\Microsoft.Owin.Security.Google.dll
+D:\iox Prime\ioxmvc2\ioxdemo\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\iox Prime\ioxmvc2\ioxdemo\bin\Microsoft.Owin.Security.OAuth.dll
+D:\iox Prime\ioxmvc2\ioxdemo\bin\Microsoft.Owin.Security.Twitter.dll
+D:\iox Prime\ioxmvc2\ioxdemo\bin\Microsoft.Web.Infrastructure.dll
+D:\iox Prime\ioxmvc2\ioxdemo\bin\Microsoft.Win32.Primitives.dll
+D:\iox Prime\ioxmvc2\ioxdemo\bin\Newtonsoft.Json.dll
+D:\iox Prime\ioxmvc2\ioxdemo\bin\Owin.dll
+D:\iox Prime\ioxmvc2\ioxdemo\bin\System.AppContext.dll
+D:\iox Prime\ioxmvc2\ioxdemo\bin\System.Buffers.dll
+D:\iox Prime\ioxmvc2\ioxdemo\bin\System.Collections.Immutable.dll
+D:\iox Prime\ioxmvc2\ioxdemo\bin\System.Console.dll
+D:\iox Prime\ioxmvc2\ioxdemo\bin\System.Diagnostics.DiagnosticSource.dll
+D:\iox Prime\ioxmvc2\ioxdemo\bin\System.Diagnostics.FileVersionInfo.dll
+D:\iox Prime\ioxmvc2\ioxdemo\bin\System.Diagnostics.StackTrace.dll
+D:\iox Prime\ioxmvc2\ioxdemo\bin\System.Globalization.Calendars.dll
+D:\iox Prime\ioxmvc2\ioxdemo\bin\System.IO.Compression.dll
+D:\iox Prime\ioxmvc2\ioxdemo\bin\System.IO.Compression.ZipFile.dll
+D:\iox Prime\ioxmvc2\ioxdemo\bin\System.IO.FileSystem.dll
+D:\iox Prime\ioxmvc2\ioxdemo\bin\System.IO.FileSystem.Primitives.dll
+D:\iox Prime\ioxmvc2\ioxdemo\bin\System.Net.Http.dll
+D:\iox Prime\ioxmvc2\ioxdemo\bin\System.Net.Http.Formatting.dll
+D:\iox Prime\ioxmvc2\ioxdemo\bin\System.Net.Sockets.dll
+D:\iox Prime\ioxmvc2\ioxdemo\bin\System.Reflection.Metadata.dll
+D:\iox Prime\ioxmvc2\ioxdemo\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\iox Prime\ioxmvc2\ioxdemo\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\iox Prime\ioxmvc2\ioxdemo\bin\System.Security.Cryptography.Algorithms.dll
+D:\iox Prime\ioxmvc2\ioxdemo\bin\System.Security.Cryptography.Encoding.dll
+D:\iox Prime\ioxmvc2\ioxdemo\bin\System.Security.Cryptography.Primitives.dll
+D:\iox Prime\ioxmvc2\ioxdemo\bin\System.Security.Cryptography.X509Certificates.dll
+D:\iox Prime\ioxmvc2\ioxdemo\bin\System.Text.Encoding.CodePages.dll
+D:\iox Prime\ioxmvc2\ioxdemo\bin\System.Text.Encodings.Web.dll
+D:\iox Prime\ioxmvc2\ioxdemo\bin\System.Threading.Thread.dll
+D:\iox Prime\ioxmvc2\ioxdemo\bin\System.Web.Helpers.dll
+D:\iox Prime\ioxmvc2\ioxdemo\bin\System.Web.Mvc.dll
+D:\iox Prime\ioxmvc2\ioxdemo\bin\System.Web.Optimization.dll
+D:\iox Prime\ioxmvc2\ioxdemo\bin\System.Web.Razor.dll
+D:\iox Prime\ioxmvc2\ioxdemo\bin\System.Web.WebPages.Deployment.dll
+D:\iox Prime\ioxmvc2\ioxdemo\bin\System.Web.WebPages.dll
+D:\iox Prime\ioxmvc2\ioxdemo\bin\System.Web.WebPages.Razor.dll
+D:\iox Prime\ioxmvc2\ioxdemo\bin\System.Xml.ReaderWriter.dll
+D:\iox Prime\ioxmvc2\ioxdemo\bin\System.Xml.XmlDocument.dll
+D:\iox Prime\ioxmvc2\ioxdemo\bin\System.Xml.XPath.dll
+D:\iox Prime\ioxmvc2\ioxdemo\bin\System.Xml.XPath.XDocument.dll
+D:\iox Prime\ioxmvc2\ioxdemo\bin\WebGrease.dll
+D:\iox Prime\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.Antiforgery.xml
+D:\iox Prime\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.Authorization.xml
+D:\iox Prime\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.Cors.xml
+D:\iox Prime\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.Cryptography.Internal.xml
+D:\iox Prime\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.DataProtection.xml
+D:\iox Prime\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.DataProtection.Abstractions.xml
+D:\iox Prime\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.Diagnostics.Abstractions.xml
+D:\iox Prime\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+D:\iox Prime\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+D:\iox Prime\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.Html.Abstractions.xml
+D:\iox Prime\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.Http.xml
+D:\iox Prime\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+D:\iox Prime\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.Http.Extensions.xml
+D:\iox Prime\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.Http.Features.xml
+D:\iox Prime\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.JsonPatch.xml
+D:\iox Prime\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.Localization.xml
+D:\iox Prime\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.Mvc.xml
+D:\iox Prime\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+D:\iox Prime\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.Mvc.ApiExplorer.xml
+D:\iox Prime\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.Mvc.Core.xml
+D:\iox Prime\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.Mvc.Cors.xml
+D:\iox Prime\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.xml
+D:\iox Prime\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.xml
+D:\iox Prime\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.Mvc.Localization.xml
+D:\iox Prime\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.Mvc.Razor.xml
+D:\iox Prime\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.Mvc.Razor.Host.xml
+D:\iox Prime\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.Mvc.TagHelpers.xml
+D:\iox Prime\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.Mvc.ViewFeatures.xml
+D:\iox Prime\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.Razor.xml
+D:\iox Prime\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.Razor.Runtime.xml
+D:\iox Prime\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+D:\iox Prime\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.Routing.xml
+D:\iox Prime\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+D:\iox Prime\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.WebUtilities.xml
+D:\iox Prime\ioxmvc2\ioxdemo\bin\Microsoft.CodeAnalysis.xml
+D:\iox Prime\ioxmvc2\ioxdemo\bin\Microsoft.CodeAnalysis.CSharp.xml
+D:\iox Prime\ioxmvc2\ioxdemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\iox Prime\ioxmvc2\ioxdemo\bin\Microsoft.Extensions.Caching.Abstractions.xml
+D:\iox Prime\ioxmvc2\ioxdemo\bin\Microsoft.Extensions.Caching.Memory.xml
+D:\iox Prime\ioxmvc2\ioxdemo\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\iox Prime\ioxmvc2\ioxdemo\bin\Microsoft.Extensions.DependencyInjection.xml
+D:\iox Prime\ioxmvc2\ioxdemo\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\iox Prime\ioxmvc2\ioxdemo\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\iox Prime\ioxmvc2\ioxdemo\bin\Microsoft.Extensions.FileProviders.Composite.xml
+D:\iox Prime\ioxmvc2\ioxdemo\bin\Microsoft.Extensions.FileProviders.Physical.xml
+D:\iox Prime\ioxmvc2\ioxdemo\bin\Microsoft.Extensions.FileSystemGlobbing.xml
+D:\iox Prime\ioxmvc2\ioxdemo\bin\Microsoft.Extensions.Globalization.CultureInfoCache.xml
+D:\iox Prime\ioxmvc2\ioxdemo\bin\Microsoft.Extensions.Localization.xml
+D:\iox Prime\ioxmvc2\ioxdemo\bin\Microsoft.Extensions.Localization.Abstractions.xml
+D:\iox Prime\ioxmvc2\ioxdemo\bin\Microsoft.Extensions.Logging.Abstractions.xml
+D:\iox Prime\ioxmvc2\ioxdemo\bin\Microsoft.Extensions.ObjectPool.xml
+D:\iox Prime\ioxmvc2\ioxdemo\bin\Microsoft.Extensions.Options.xml
+D:\iox Prime\ioxmvc2\ioxdemo\bin\Microsoft.Extensions.PlatformAbstractions.xml
+D:\iox Prime\ioxmvc2\ioxdemo\bin\Microsoft.Extensions.Primitives.xml
+D:\iox Prime\ioxmvc2\ioxdemo\bin\Microsoft.Extensions.WebEncoders.xml
+D:\iox Prime\ioxmvc2\ioxdemo\bin\Microsoft.Net.Http.Headers.xml
+D:\iox Prime\ioxmvc2\ioxdemo\bin\Newtonsoft.Json.xml
+D:\iox Prime\ioxmvc2\ioxdemo\bin\System.Collections.Immutable.xml
+D:\iox Prime\ioxmvc2\ioxdemo\bin\System.Diagnostics.DiagnosticSource.xml
+D:\iox Prime\ioxmvc2\ioxdemo\bin\System.Net.Http.Formatting.xml
+D:\iox Prime\ioxmvc2\ioxdemo\bin\System.Reflection.Metadata.xml
+D:\iox Prime\ioxmvc2\ioxdemo\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\iox Prime\ioxmvc2\ioxdemo\bin\System.Text.Encodings.Web.xml
+D:\iox Prime\ioxmvc2\ioxdemo\bin\System.Web.Helpers.xml
+D:\iox Prime\ioxmvc2\ioxdemo\bin\System.Web.Mvc.xml
+D:\iox Prime\ioxmvc2\ioxdemo\bin\System.Web.Optimization.xml
+D:\iox Prime\ioxmvc2\ioxdemo\bin\System.Web.Razor.xml
+D:\iox Prime\ioxmvc2\ioxdemo\bin\System.Web.WebPages.xml
+D:\iox Prime\ioxmvc2\ioxdemo\bin\System.Web.WebPages.Deployment.xml
+D:\iox Prime\ioxmvc2\ioxdemo\bin\System.Web.WebPages.Razor.xml
+D:\iox Prime\ioxmvc2\ioxdemo\bin\Antlr3.Runtime.pdb
+D:\iox Prime\ioxmvc2\ioxdemo\bin\EntityFramework.xml
+D:\iox Prime\ioxmvc2\ioxdemo\bin\EntityFramework.SqlServer.xml
+D:\iox Prime\ioxmvc2\ioxdemo\bin\Microsoft.AspNet.Identity.Core.xml
+D:\iox Prime\ioxmvc2\ioxdemo\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\iox Prime\ioxmvc2\ioxdemo\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\iox Prime\ioxmvc2\ioxdemo\bin\Microsoft.Owin.xml
+D:\iox Prime\ioxmvc2\ioxdemo\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\iox Prime\ioxmvc2\ioxdemo\bin\Microsoft.Owin.Security.xml
+D:\iox Prime\ioxmvc2\ioxdemo\bin\Microsoft.Owin.Security.Facebook.xml
+D:\iox Prime\ioxmvc2\ioxdemo\bin\Microsoft.Owin.Security.Cookies.xml
+D:\iox Prime\ioxmvc2\ioxdemo\bin\Microsoft.Owin.Security.OAuth.xml
+D:\iox Prime\ioxmvc2\ioxdemo\bin\Microsoft.Owin.Security.Google.xml
+D:\iox Prime\ioxmvc2\ioxdemo\bin\Microsoft.Owin.Security.Twitter.xml
+D:\iox Prime\ioxmvc2\ioxdemo\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\iox Prime\ioxmvc2\ioxdemo\bin\Microsoft.ApplicationInsights.xml
+D:\iox Prime\ioxmvc2\ioxdemo\bin\Microsoft.AI.DependencyCollector.xml
+D:\iox Prime\ioxmvc2\ioxdemo\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\iox Prime\ioxmvc2\ioxdemo\bin\Microsoft.AI.WindowsServer.xml
+D:\iox Prime\ioxmvc2\ioxdemo\bin\Microsoft.AI.Web.xml
+D:\iox Prime\ioxmvc2\ioxdemo\obj\Debug\ioxdemo.csproj.CoreCompileInputs.cache
+D:\iox Prime\ioxmvc2\ioxdemo\obj\Debug\ioxdemo.dll
+D:\iox Prime\ioxmvc2\ioxdemo\obj\Debug\ioxdemo.pdb
+D:\iox Prime\ioxmvc2\ioxdemo\obj\Debug\ioxdemo.csprojResolveAssemblyReference.cache
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\ApplicationInsights.config
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\ioxdemo.dll.config
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\ioxdemo.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\ioxdemo.pdb
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\Antlr3.Runtime.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\EntityFramework.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\EntityFramework.SqlServer.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\Microsoft.AI.Agent.Intercept.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\Microsoft.AI.DependencyCollector.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\Microsoft.AI.Web.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\Microsoft.AI.WindowsServer.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\Microsoft.ApplicationInsights.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\Microsoft.AspNet.Identity.Core.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\Microsoft.AspNetCore.Antiforgery.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\Microsoft.AspNetCore.Authorization.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\Microsoft.AspNetCore.Cors.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\Microsoft.AspNetCore.DataProtection.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\Microsoft.AspNetCore.Http.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\Microsoft.AspNetCore.Http.Extensions.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\Microsoft.AspNetCore.Http.Features.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\Microsoft.AspNetCore.JsonPatch.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\Microsoft.AspNetCore.Localization.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\Microsoft.AspNetCore.Mvc.Core.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\Microsoft.AspNetCore.Mvc.Cors.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\Microsoft.AspNetCore.Mvc.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\Microsoft.AspNetCore.Mvc.Localization.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\Microsoft.AspNetCore.Mvc.Razor.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\Microsoft.AspNetCore.Mvc.Razor.Host.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\Microsoft.AspNetCore.Razor.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\Microsoft.AspNetCore.Razor.Runtime.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\Microsoft.AspNetCore.Routing.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\Microsoft.AspNetCore.WebUtilities.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\Microsoft.CodeAnalysis.CSharp.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\Microsoft.CodeAnalysis.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\Microsoft.DotNet.PlatformAbstractions.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\Microsoft.Extensions.Caching.Abstractions.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\Microsoft.Extensions.Caching.Memory.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\Microsoft.Extensions.DependencyInjection.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\Microsoft.Extensions.DependencyModel.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\Microsoft.Extensions.FileProviders.Composite.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\Microsoft.Extensions.FileProviders.Physical.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\Microsoft.Extensions.Globalization.CultureInfoCache.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\Microsoft.Extensions.Localization.Abstractions.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\Microsoft.Extensions.Localization.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\Microsoft.Extensions.Logging.Abstractions.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\Microsoft.Extensions.ObjectPool.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\Microsoft.Extensions.Options.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\Microsoft.Extensions.PlatformAbstractions.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\Microsoft.Extensions.Primitives.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\Microsoft.Extensions.WebEncoders.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\Microsoft.Net.Http.Headers.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\Microsoft.Owin.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\Microsoft.Owin.Security.Cookies.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\Microsoft.Owin.Security.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\Microsoft.Owin.Security.Facebook.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\Microsoft.Owin.Security.Google.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\Microsoft.Owin.Security.OAuth.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\Microsoft.Owin.Security.Twitter.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\Microsoft.Web.Infrastructure.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\Microsoft.Win32.Primitives.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\Newtonsoft.Json.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\Owin.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\System.AppContext.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\System.Buffers.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\System.Collections.Immutable.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\System.Console.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\System.Diagnostics.DiagnosticSource.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\System.Diagnostics.FileVersionInfo.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\System.Diagnostics.StackTrace.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\System.Globalization.Calendars.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\System.IO.Compression.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\System.IO.Compression.ZipFile.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\System.IO.FileSystem.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\System.IO.FileSystem.Primitives.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\System.Net.Http.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\System.Net.Http.Formatting.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\System.Net.Sockets.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\System.Reflection.Metadata.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\System.Security.Cryptography.Algorithms.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\System.Security.Cryptography.Encoding.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\System.Security.Cryptography.Primitives.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\System.Security.Cryptography.X509Certificates.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\System.Text.Encoding.CodePages.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\System.Text.Encodings.Web.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\System.Threading.Thread.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\System.Web.Helpers.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\System.Web.Mvc.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\System.Web.Optimization.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\System.Web.Razor.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\System.Web.WebPages.Deployment.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\System.Web.WebPages.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\System.Web.WebPages.Razor.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\System.Xml.ReaderWriter.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\System.Xml.XmlDocument.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\System.Xml.XPath.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\System.Xml.XPath.XDocument.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\WebGrease.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\Microsoft.AspNetCore.Antiforgery.xml
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\Microsoft.AspNetCore.Authorization.xml
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\Microsoft.AspNetCore.Cors.xml
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\Microsoft.AspNetCore.Cryptography.Internal.xml
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\Microsoft.AspNetCore.DataProtection.xml
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\Microsoft.AspNetCore.DataProtection.Abstractions.xml
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\Microsoft.AspNetCore.Diagnostics.Abstractions.xml
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\Microsoft.AspNetCore.Html.Abstractions.xml
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\Microsoft.AspNetCore.Http.xml
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\Microsoft.AspNetCore.Http.Extensions.xml
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\Microsoft.AspNetCore.Http.Features.xml
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\Microsoft.AspNetCore.JsonPatch.xml
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\Microsoft.AspNetCore.Localization.xml
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\Microsoft.AspNetCore.Mvc.xml
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\Microsoft.AspNetCore.Mvc.ApiExplorer.xml
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\Microsoft.AspNetCore.Mvc.Core.xml
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\Microsoft.AspNetCore.Mvc.Cors.xml
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.xml
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.xml
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\Microsoft.AspNetCore.Mvc.Localization.xml
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\Microsoft.AspNetCore.Mvc.Razor.xml
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\Microsoft.AspNetCore.Mvc.Razor.Host.xml
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\Microsoft.AspNetCore.Mvc.TagHelpers.xml
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\Microsoft.AspNetCore.Mvc.ViewFeatures.xml
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\Microsoft.AspNetCore.Razor.xml
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\Microsoft.AspNetCore.Razor.Runtime.xml
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\Microsoft.AspNetCore.Routing.xml
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\Microsoft.AspNetCore.WebUtilities.xml
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\Microsoft.CodeAnalysis.xml
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\Microsoft.CodeAnalysis.CSharp.xml
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\Microsoft.Extensions.Caching.Abstractions.xml
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\Microsoft.Extensions.Caching.Memory.xml
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\Microsoft.Extensions.DependencyInjection.xml
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\Microsoft.Extensions.FileProviders.Composite.xml
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\Microsoft.Extensions.FileProviders.Physical.xml
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\Microsoft.Extensions.FileSystemGlobbing.xml
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\Microsoft.Extensions.Globalization.CultureInfoCache.xml
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\Microsoft.Extensions.Localization.xml
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\Microsoft.Extensions.Localization.Abstractions.xml
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\Microsoft.Extensions.Logging.Abstractions.xml
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\Microsoft.Extensions.ObjectPool.xml
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\Microsoft.Extensions.Options.xml
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\Microsoft.Extensions.PlatformAbstractions.xml
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\Microsoft.Extensions.Primitives.xml
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\Microsoft.Extensions.WebEncoders.xml
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\Microsoft.Net.Http.Headers.xml
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\Newtonsoft.Json.xml
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\System.Collections.Immutable.xml
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\System.Diagnostics.DiagnosticSource.xml
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\System.Net.Http.Formatting.xml
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\System.Reflection.Metadata.xml
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\System.Text.Encodings.Web.xml
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\System.Web.Helpers.xml
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\System.Web.Mvc.xml
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\System.Web.Optimization.xml
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\System.Web.Razor.xml
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\System.Web.WebPages.xml
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\System.Web.WebPages.Deployment.xml
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\System.Web.WebPages.Razor.xml
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\Antlr3.Runtime.pdb
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\EntityFramework.xml
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\EntityFramework.SqlServer.xml
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\Microsoft.AspNet.Identity.Core.xml
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\Microsoft.Owin.xml
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\Microsoft.Owin.Security.xml
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\Microsoft.Owin.Security.Facebook.xml
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\Microsoft.Owin.Security.Cookies.xml
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\Microsoft.Owin.Security.OAuth.xml
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\Microsoft.Owin.Security.Google.xml
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\Microsoft.Owin.Security.Twitter.xml
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\Microsoft.ApplicationInsights.xml
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\Microsoft.AI.DependencyCollector.xml
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\Microsoft.AI.WindowsServer.xml
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\bin\Microsoft.AI.Web.xml
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\obj\Debug\ioxdemo.csprojResolveAssemblyReference.cache
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\obj\Debug\ioxdemo.csproj.CoreCompileInputs.cache
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\obj\Debug\ioxdemo.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2-old\ioxdemo\obj\Debug\ioxdemo.pdb
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\ApplicationInsights.config
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\ioxdemo.dll.config
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\ioxdemo.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\ioxdemo.pdb
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\Antlr3.Runtime.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\EntityFramework.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\EntityFramework.SqlServer.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\Microsoft.AI.Agent.Intercept.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\Microsoft.AI.DependencyCollector.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\Microsoft.AI.Web.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\Microsoft.AI.WindowsServer.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\Microsoft.ApplicationInsights.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\Microsoft.AspNet.Identity.Core.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.Antiforgery.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.Authorization.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.Cors.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.DataProtection.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.Http.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.Http.Extensions.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.Http.Features.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.JsonPatch.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.Localization.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.Mvc.Core.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.Mvc.Cors.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.Mvc.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.Mvc.Localization.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.Mvc.Razor.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.Mvc.Razor.Host.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.Razor.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.Razor.Runtime.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.Routing.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.WebUtilities.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\Microsoft.CodeAnalysis.CSharp.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\Microsoft.CodeAnalysis.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\Microsoft.DotNet.PlatformAbstractions.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\Microsoft.Extensions.Caching.Abstractions.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\Microsoft.Extensions.Caching.Memory.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\Microsoft.Extensions.DependencyInjection.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\Microsoft.Extensions.DependencyModel.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\Microsoft.Extensions.FileProviders.Composite.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\Microsoft.Extensions.FileProviders.Physical.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\Microsoft.Extensions.Globalization.CultureInfoCache.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\Microsoft.Extensions.Localization.Abstractions.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\Microsoft.Extensions.Localization.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\Microsoft.Extensions.Logging.Abstractions.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\Microsoft.Extensions.ObjectPool.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\Microsoft.Extensions.Options.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\Microsoft.Extensions.PlatformAbstractions.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\Microsoft.Extensions.Primitives.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\Microsoft.Extensions.WebEncoders.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\Microsoft.Net.Http.Headers.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\Microsoft.Owin.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\Microsoft.Owin.Security.Cookies.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\Microsoft.Owin.Security.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\Microsoft.Owin.Security.Facebook.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\Microsoft.Owin.Security.Google.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\Microsoft.Owin.Security.OAuth.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\Microsoft.Owin.Security.Twitter.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\Microsoft.Web.Infrastructure.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\Microsoft.Win32.Primitives.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\Newtonsoft.Json.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\Owin.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\System.AppContext.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\System.Buffers.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\System.Collections.Immutable.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\System.Console.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\System.Diagnostics.DiagnosticSource.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\System.Diagnostics.FileVersionInfo.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\System.Diagnostics.StackTrace.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\System.Globalization.Calendars.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\System.IO.Compression.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\System.IO.Compression.ZipFile.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\System.IO.FileSystem.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\System.IO.FileSystem.Primitives.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\System.Net.Http.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\System.Net.Http.Formatting.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\System.Net.Sockets.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\System.Reflection.Metadata.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\System.Security.Cryptography.Algorithms.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\System.Security.Cryptography.Encoding.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\System.Security.Cryptography.Primitives.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\System.Security.Cryptography.X509Certificates.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\System.Text.Encoding.CodePages.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\System.Text.Encodings.Web.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\System.Threading.Thread.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\System.Web.Helpers.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\System.Web.Mvc.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\System.Web.Optimization.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\System.Web.Razor.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\System.Web.WebPages.Deployment.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\System.Web.WebPages.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\System.Web.WebPages.Razor.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\System.Xml.ReaderWriter.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\System.Xml.XmlDocument.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\System.Xml.XPath.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\System.Xml.XPath.XDocument.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\WebGrease.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.Antiforgery.xml
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.Authorization.xml
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.Cors.xml
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.Cryptography.Internal.xml
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.DataProtection.xml
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.DataProtection.Abstractions.xml
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.Diagnostics.Abstractions.xml
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.Html.Abstractions.xml
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.Http.xml
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.Http.Extensions.xml
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.Http.Features.xml
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.JsonPatch.xml
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.Localization.xml
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.Mvc.xml
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.Mvc.ApiExplorer.xml
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.Mvc.Core.xml
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.Mvc.Cors.xml
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.xml
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.xml
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.Mvc.Localization.xml
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.Mvc.Razor.xml
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.Mvc.Razor.Host.xml
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.Mvc.TagHelpers.xml
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.Mvc.ViewFeatures.xml
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.Razor.xml
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.Razor.Runtime.xml
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.Routing.xml
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\Microsoft.AspNetCore.WebUtilities.xml
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\Microsoft.CodeAnalysis.xml
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\Microsoft.CodeAnalysis.CSharp.xml
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\Microsoft.Extensions.Caching.Abstractions.xml
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\Microsoft.Extensions.Caching.Memory.xml
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\Microsoft.Extensions.DependencyInjection.xml
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\Microsoft.Extensions.FileProviders.Composite.xml
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\Microsoft.Extensions.FileProviders.Physical.xml
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\Microsoft.Extensions.FileSystemGlobbing.xml
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\Microsoft.Extensions.Globalization.CultureInfoCache.xml
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\Microsoft.Extensions.Localization.xml
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\Microsoft.Extensions.Localization.Abstractions.xml
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\Microsoft.Extensions.Logging.Abstractions.xml
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\Microsoft.Extensions.ObjectPool.xml
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\Microsoft.Extensions.Options.xml
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\Microsoft.Extensions.PlatformAbstractions.xml
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\Microsoft.Extensions.Primitives.xml
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\Microsoft.Extensions.WebEncoders.xml
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\Microsoft.Net.Http.Headers.xml
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\Newtonsoft.Json.xml
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\System.Collections.Immutable.xml
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\System.Diagnostics.DiagnosticSource.xml
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\System.Net.Http.Formatting.xml
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\System.Reflection.Metadata.xml
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\System.Text.Encodings.Web.xml
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\System.Web.Helpers.xml
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\System.Web.Mvc.xml
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\System.Web.Optimization.xml
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\System.Web.Razor.xml
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\System.Web.WebPages.xml
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\System.Web.WebPages.Deployment.xml
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\System.Web.WebPages.Razor.xml
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\Antlr3.Runtime.pdb
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\EntityFramework.xml
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\EntityFramework.SqlServer.xml
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\Microsoft.AspNet.Identity.Core.xml
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\Microsoft.Owin.xml
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\Microsoft.Owin.Security.xml
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\Microsoft.Owin.Security.Facebook.xml
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\Microsoft.Owin.Security.Cookies.xml
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\Microsoft.Owin.Security.OAuth.xml
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\Microsoft.Owin.Security.Google.xml
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\Microsoft.Owin.Security.Twitter.xml
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\Microsoft.ApplicationInsights.xml
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\Microsoft.AI.DependencyCollector.xml
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\Microsoft.AI.WindowsServer.xml
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\bin\Microsoft.AI.Web.xml
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\obj\Debug\ioxdemo.csprojResolveAssemblyReference.cache
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\obj\Debug\ioxdemo.csproj.CoreCompileInputs.cache
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\obj\Debug\ioxdemo.dll
+D:\iox Prime\ioxmvc2 branch1\ioxmvc2\ioxdemo\obj\Debug\ioxdemo.pdb
+D:\iox Prime\ioxmvc\ioxdemo\bin\ApplicationInsights.config
+D:\iox Prime\ioxmvc\ioxdemo\bin\ioxdemo.dll.config
+D:\iox Prime\ioxmvc\ioxdemo\bin\ioxdemo.dll
+D:\iox Prime\ioxmvc\ioxdemo\bin\ioxdemo.pdb
+D:\iox Prime\ioxmvc\ioxdemo\bin\Antlr3.Runtime.dll
+D:\iox Prime\ioxmvc\ioxdemo\bin\EntityFramework.dll
+D:\iox Prime\ioxmvc\ioxdemo\bin\EntityFramework.SqlServer.dll
+D:\iox Prime\ioxmvc\ioxdemo\bin\Microsoft.AI.Agent.Intercept.dll
+D:\iox Prime\ioxmvc\ioxdemo\bin\Microsoft.AI.DependencyCollector.dll
+D:\iox Prime\ioxmvc\ioxdemo\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\iox Prime\ioxmvc\ioxdemo\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\iox Prime\ioxmvc\ioxdemo\bin\Microsoft.AI.Web.dll
+D:\iox Prime\ioxmvc\ioxdemo\bin\Microsoft.AI.WindowsServer.dll
+D:\iox Prime\ioxmvc\ioxdemo\bin\Microsoft.ApplicationInsights.dll
+D:\iox Prime\ioxmvc\ioxdemo\bin\Microsoft.AspNet.Identity.Core.dll
+D:\iox Prime\ioxmvc\ioxdemo\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\iox Prime\ioxmvc\ioxdemo\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\iox Prime\ioxmvc\ioxdemo\bin\Microsoft.AspNetCore.Antiforgery.dll
+D:\iox Prime\ioxmvc\ioxdemo\bin\Microsoft.AspNetCore.Authorization.dll
+D:\iox Prime\ioxmvc\ioxdemo\bin\Microsoft.AspNetCore.Cors.dll
+D:\iox Prime\ioxmvc\ioxdemo\bin\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\iox Prime\ioxmvc\ioxdemo\bin\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\iox Prime\ioxmvc\ioxdemo\bin\Microsoft.AspNetCore.DataProtection.dll
+D:\iox Prime\ioxmvc\ioxdemo\bin\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\iox Prime\ioxmvc\ioxdemo\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\iox Prime\ioxmvc\ioxdemo\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\iox Prime\ioxmvc\ioxdemo\bin\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\iox Prime\ioxmvc\ioxdemo\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\iox Prime\ioxmvc\ioxdemo\bin\Microsoft.AspNetCore.Http.dll
+D:\iox Prime\ioxmvc\ioxdemo\bin\Microsoft.AspNetCore.Http.Extensions.dll
+D:\iox Prime\ioxmvc\ioxdemo\bin\Microsoft.AspNetCore.Http.Features.dll
+D:\iox Prime\ioxmvc\ioxdemo\bin\Microsoft.AspNetCore.JsonPatch.dll
+D:\iox Prime\ioxmvc\ioxdemo\bin\Microsoft.AspNetCore.Localization.dll
+D:\iox Prime\ioxmvc\ioxdemo\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\iox Prime\ioxmvc\ioxdemo\bin\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+D:\iox Prime\ioxmvc\ioxdemo\bin\Microsoft.AspNetCore.Mvc.Core.dll
+D:\iox Prime\ioxmvc\ioxdemo\bin\Microsoft.AspNetCore.Mvc.Cors.dll
+D:\iox Prime\ioxmvc\ioxdemo\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:\iox Prime\ioxmvc\ioxdemo\bin\Microsoft.AspNetCore.Mvc.dll
+D:\iox Prime\ioxmvc\ioxdemo\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\iox Prime\ioxmvc\ioxdemo\bin\Microsoft.AspNetCore.Mvc.Localization.dll
+D:\iox Prime\ioxmvc\ioxdemo\bin\Microsoft.AspNetCore.Mvc.Razor.dll
+D:\iox Prime\ioxmvc\ioxdemo\bin\Microsoft.AspNetCore.Mvc.Razor.Host.dll
+D:\iox Prime\ioxmvc\ioxdemo\bin\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+D:\iox Prime\ioxmvc\ioxdemo\bin\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:\iox Prime\ioxmvc\ioxdemo\bin\Microsoft.AspNetCore.Razor.dll
+D:\iox Prime\ioxmvc\ioxdemo\bin\Microsoft.AspNetCore.Razor.Runtime.dll
+D:\iox Prime\ioxmvc\ioxdemo\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\iox Prime\ioxmvc\ioxdemo\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\iox Prime\ioxmvc\ioxdemo\bin\Microsoft.AspNetCore.Routing.dll
+D:\iox Prime\ioxmvc\ioxdemo\bin\Microsoft.AspNetCore.WebUtilities.dll
+D:\iox Prime\ioxmvc\ioxdemo\bin\Microsoft.CodeAnalysis.CSharp.dll
+D:\iox Prime\ioxmvc\ioxdemo\bin\Microsoft.CodeAnalysis.dll
+D:\iox Prime\ioxmvc\ioxdemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\iox Prime\ioxmvc\ioxdemo\bin\Microsoft.DotNet.PlatformAbstractions.dll
+D:\iox Prime\ioxmvc\ioxdemo\bin\Microsoft.Extensions.Caching.Abstractions.dll
+D:\iox Prime\ioxmvc\ioxdemo\bin\Microsoft.Extensions.Caching.Memory.dll
+D:\iox Prime\ioxmvc\ioxdemo\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\iox Prime\ioxmvc\ioxdemo\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\iox Prime\ioxmvc\ioxdemo\bin\Microsoft.Extensions.DependencyInjection.dll
+D:\iox Prime\ioxmvc\ioxdemo\bin\Microsoft.Extensions.DependencyModel.dll
+D:\iox Prime\ioxmvc\ioxdemo\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\iox Prime\ioxmvc\ioxdemo\bin\Microsoft.Extensions.FileProviders.Composite.dll
+D:\iox Prime\ioxmvc\ioxdemo\bin\Microsoft.Extensions.FileProviders.Physical.dll
+D:\iox Prime\ioxmvc\ioxdemo\bin\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\iox Prime\ioxmvc\ioxdemo\bin\Microsoft.Extensions.Globalization.CultureInfoCache.dll
+D:\iox Prime\ioxmvc\ioxdemo\bin\Microsoft.Extensions.Localization.Abstractions.dll
+D:\iox Prime\ioxmvc\ioxdemo\bin\Microsoft.Extensions.Localization.dll
+D:\iox Prime\ioxmvc\ioxdemo\bin\Microsoft.Extensions.Logging.Abstractions.dll
+D:\iox Prime\ioxmvc\ioxdemo\bin\Microsoft.Extensions.ObjectPool.dll
+D:\iox Prime\ioxmvc\ioxdemo\bin\Microsoft.Extensions.Options.dll
+D:\iox Prime\ioxmvc\ioxdemo\bin\Microsoft.Extensions.PlatformAbstractions.dll
+D:\iox Prime\ioxmvc\ioxdemo\bin\Microsoft.Extensions.Primitives.dll
+D:\iox Prime\ioxmvc\ioxdemo\bin\Microsoft.Extensions.WebEncoders.dll
+D:\iox Prime\ioxmvc\ioxdemo\bin\Microsoft.Net.Http.Headers.dll
+D:\iox Prime\ioxmvc\ioxdemo\bin\Microsoft.Owin.dll
+D:\iox Prime\ioxmvc\ioxdemo\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\iox Prime\ioxmvc\ioxdemo\bin\Microsoft.Owin.Security.Cookies.dll
+D:\iox Prime\ioxmvc\ioxdemo\bin\Microsoft.Owin.Security.dll
+D:\iox Prime\ioxmvc\ioxdemo\bin\Microsoft.Owin.Security.Facebook.dll
+D:\iox Prime\ioxmvc\ioxdemo\bin\Microsoft.Owin.Security.Google.dll
+D:\iox Prime\ioxmvc\ioxdemo\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\iox Prime\ioxmvc\ioxdemo\bin\Microsoft.Owin.Security.OAuth.dll
+D:\iox Prime\ioxmvc\ioxdemo\bin\Microsoft.Owin.Security.Twitter.dll
+D:\iox Prime\ioxmvc\ioxdemo\bin\Microsoft.Web.Infrastructure.dll
+D:\iox Prime\ioxmvc\ioxdemo\bin\Microsoft.Win32.Primitives.dll
+D:\iox Prime\ioxmvc\ioxdemo\bin\Newtonsoft.Json.dll
+D:\iox Prime\ioxmvc\ioxdemo\bin\Owin.dll
+D:\iox Prime\ioxmvc\ioxdemo\bin\System.AppContext.dll
+D:\iox Prime\ioxmvc\ioxdemo\bin\System.Buffers.dll
+D:\iox Prime\ioxmvc\ioxdemo\bin\System.Collections.Immutable.dll
+D:\iox Prime\ioxmvc\ioxdemo\bin\System.Console.dll
+D:\iox Prime\ioxmvc\ioxdemo\bin\System.Diagnostics.DiagnosticSource.dll
+D:\iox Prime\ioxmvc\ioxdemo\bin\System.Diagnostics.FileVersionInfo.dll
+D:\iox Prime\ioxmvc\ioxdemo\bin\System.Diagnostics.StackTrace.dll
+D:\iox Prime\ioxmvc\ioxdemo\bin\System.Globalization.Calendars.dll
+D:\iox Prime\ioxmvc\ioxdemo\bin\System.IO.Compression.dll
+D:\iox Prime\ioxmvc\ioxdemo\bin\System.IO.Compression.ZipFile.dll
+D:\iox Prime\ioxmvc\ioxdemo\bin\System.IO.FileSystem.dll
+D:\iox Prime\ioxmvc\ioxdemo\bin\System.IO.FileSystem.Primitives.dll
+D:\iox Prime\ioxmvc\ioxdemo\bin\System.Net.Http.dll
+D:\iox Prime\ioxmvc\ioxdemo\bin\System.Net.Http.Formatting.dll
+D:\iox Prime\ioxmvc\ioxdemo\bin\System.Net.Sockets.dll
+D:\iox Prime\ioxmvc\ioxdemo\bin\System.Reflection.Metadata.dll
+D:\iox Prime\ioxmvc\ioxdemo\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\iox Prime\ioxmvc\ioxdemo\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\iox Prime\ioxmvc\ioxdemo\bin\System.Security.Cryptography.Algorithms.dll
+D:\iox Prime\ioxmvc\ioxdemo\bin\System.Security.Cryptography.Encoding.dll
+D:\iox Prime\ioxmvc\ioxdemo\bin\System.Security.Cryptography.Primitives.dll
+D:\iox Prime\ioxmvc\ioxdemo\bin\System.Security.Cryptography.X509Certificates.dll
+D:\iox Prime\ioxmvc\ioxdemo\bin\System.Text.Encoding.CodePages.dll
+D:\iox Prime\ioxmvc\ioxdemo\bin\System.Text.Encodings.Web.dll
+D:\iox Prime\ioxmvc\ioxdemo\bin\System.Threading.Thread.dll
+D:\iox Prime\ioxmvc\ioxdemo\bin\System.Web.Helpers.dll
+D:\iox Prime\ioxmvc\ioxdemo\bin\System.Web.Mvc.dll
+D:\iox Prime\ioxmvc\ioxdemo\bin\System.Web.Optimization.dll
+D:\iox Prime\ioxmvc\ioxdemo\bin\System.Web.Razor.dll
+D:\iox Prime\ioxmvc\ioxdemo\bin\System.Web.WebPages.Deployment.dll
+D:\iox Prime\ioxmvc\ioxdemo\bin\System.Web.WebPages.dll
+D:\iox Prime\ioxmvc\ioxdemo\bin\System.Web.WebPages.Razor.dll
+D:\iox Prime\ioxmvc\ioxdemo\bin\System.Xml.ReaderWriter.dll
+D:\iox Prime\ioxmvc\ioxdemo\bin\System.Xml.XmlDocument.dll
+D:\iox Prime\ioxmvc\ioxdemo\bin\System.Xml.XPath.dll
+D:\iox Prime\ioxmvc\ioxdemo\bin\System.Xml.XPath.XDocument.dll
+D:\iox Prime\ioxmvc\ioxdemo\bin\WebGrease.dll
+D:\iox Prime\ioxmvc\ioxdemo\bin\Microsoft.AspNetCore.Antiforgery.xml
+D:\iox Prime\ioxmvc\ioxdemo\bin\Microsoft.AspNetCore.Authorization.xml
+D:\iox Prime\ioxmvc\ioxdemo\bin\Microsoft.AspNetCore.Cors.xml
+D:\iox Prime\ioxmvc\ioxdemo\bin\Microsoft.AspNetCore.Cryptography.Internal.xml
+D:\iox Prime\ioxmvc\ioxdemo\bin\Microsoft.AspNetCore.DataProtection.xml
+D:\iox Prime\ioxmvc\ioxdemo\bin\Microsoft.AspNetCore.DataProtection.Abstractions.xml
+D:\iox Prime\ioxmvc\ioxdemo\bin\Microsoft.AspNetCore.Diagnostics.Abstractions.xml
+D:\iox Prime\ioxmvc\ioxdemo\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+D:\iox Prime\ioxmvc\ioxdemo\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+D:\iox Prime\ioxmvc\ioxdemo\bin\Microsoft.AspNetCore.Html.Abstractions.xml
+D:\iox Prime\ioxmvc\ioxdemo\bin\Microsoft.AspNetCore.Http.xml
+D:\iox Prime\ioxmvc\ioxdemo\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+D:\iox Prime\ioxmvc\ioxdemo\bin\Microsoft.AspNetCore.Http.Extensions.xml
+D:\iox Prime\ioxmvc\ioxdemo\bin\Microsoft.AspNetCore.Http.Features.xml
+D:\iox Prime\ioxmvc\ioxdemo\bin\Microsoft.AspNetCore.JsonPatch.xml
+D:\iox Prime\ioxmvc\ioxdemo\bin\Microsoft.AspNetCore.Localization.xml
+D:\iox Prime\ioxmvc\ioxdemo\bin\Microsoft.AspNetCore.Mvc.xml
+D:\iox Prime\ioxmvc\ioxdemo\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+D:\iox Prime\ioxmvc\ioxdemo\bin\Microsoft.AspNetCore.Mvc.ApiExplorer.xml
+D:\iox Prime\ioxmvc\ioxdemo\bin\Microsoft.AspNetCore.Mvc.Core.xml
+D:\iox Prime\ioxmvc\ioxdemo\bin\Microsoft.AspNetCore.Mvc.Cors.xml
+D:\iox Prime\ioxmvc\ioxdemo\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.xml
+D:\iox Prime\ioxmvc\ioxdemo\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.xml
+D:\iox Prime\ioxmvc\ioxdemo\bin\Microsoft.AspNetCore.Mvc.Localization.xml
+D:\iox Prime\ioxmvc\ioxdemo\bin\Microsoft.AspNetCore.Mvc.Razor.xml
+D:\iox Prime\ioxmvc\ioxdemo\bin\Microsoft.AspNetCore.Mvc.Razor.Host.xml
+D:\iox Prime\ioxmvc\ioxdemo\bin\Microsoft.AspNetCore.Mvc.TagHelpers.xml
+D:\iox Prime\ioxmvc\ioxdemo\bin\Microsoft.AspNetCore.Mvc.ViewFeatures.xml
+D:\iox Prime\ioxmvc\ioxdemo\bin\Microsoft.AspNetCore.Razor.xml
+D:\iox Prime\ioxmvc\ioxdemo\bin\Microsoft.AspNetCore.Razor.Runtime.xml
+D:\iox Prime\ioxmvc\ioxdemo\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+D:\iox Prime\ioxmvc\ioxdemo\bin\Microsoft.AspNetCore.Routing.xml
+D:\iox Prime\ioxmvc\ioxdemo\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+D:\iox Prime\ioxmvc\ioxdemo\bin\Microsoft.AspNetCore.WebUtilities.xml
+D:\iox Prime\ioxmvc\ioxdemo\bin\Microsoft.CodeAnalysis.xml
+D:\iox Prime\ioxmvc\ioxdemo\bin\Microsoft.CodeAnalysis.CSharp.xml
+D:\iox Prime\ioxmvc\ioxdemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\iox Prime\ioxmvc\ioxdemo\bin\Microsoft.Extensions.Caching.Abstractions.xml
+D:\iox Prime\ioxmvc\ioxdemo\bin\Microsoft.Extensions.Caching.Memory.xml
+D:\iox Prime\ioxmvc\ioxdemo\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\iox Prime\ioxmvc\ioxdemo\bin\Microsoft.Extensions.DependencyInjection.xml
+D:\iox Prime\ioxmvc\ioxdemo\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\iox Prime\ioxmvc\ioxdemo\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\iox Prime\ioxmvc\ioxdemo\bin\Microsoft.Extensions.FileProviders.Composite.xml
+D:\iox Prime\ioxmvc\ioxdemo\bin\Microsoft.Extensions.FileProviders.Physical.xml
+D:\iox Prime\ioxmvc\ioxdemo\bin\Microsoft.Extensions.FileSystemGlobbing.xml
+D:\iox Prime\ioxmvc\ioxdemo\bin\Microsoft.Extensions.Globalization.CultureInfoCache.xml
+D:\iox Prime\ioxmvc\ioxdemo\bin\Microsoft.Extensions.Localization.xml
+D:\iox Prime\ioxmvc\ioxdemo\bin\Microsoft.Extensions.Localization.Abstractions.xml
+D:\iox Prime\ioxmvc\ioxdemo\bin\Microsoft.Extensions.Logging.Abstractions.xml
+D:\iox Prime\ioxmvc\ioxdemo\bin\Microsoft.Extensions.ObjectPool.xml
+D:\iox Prime\ioxmvc\ioxdemo\bin\Microsoft.Extensions.Options.xml
+D:\iox Prime\ioxmvc\ioxdemo\bin\Microsoft.Extensions.PlatformAbstractions.xml
+D:\iox Prime\ioxmvc\ioxdemo\bin\Microsoft.Extensions.Primitives.xml
+D:\iox Prime\ioxmvc\ioxdemo\bin\Microsoft.Extensions.WebEncoders.xml
+D:\iox Prime\ioxmvc\ioxdemo\bin\Microsoft.Net.Http.Headers.xml
+D:\iox Prime\ioxmvc\ioxdemo\bin\Newtonsoft.Json.xml
+D:\iox Prime\ioxmvc\ioxdemo\bin\System.Collections.Immutable.xml
+D:\iox Prime\ioxmvc\ioxdemo\bin\System.Diagnostics.DiagnosticSource.xml
+D:\iox Prime\ioxmvc\ioxdemo\bin\System.Net.Http.Formatting.xml
+D:\iox Prime\ioxmvc\ioxdemo\bin\System.Reflection.Metadata.xml
+D:\iox Prime\ioxmvc\ioxdemo\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\iox Prime\ioxmvc\ioxdemo\bin\System.Text.Encodings.Web.xml
+D:\iox Prime\ioxmvc\ioxdemo\bin\System.Web.Helpers.xml
+D:\iox Prime\ioxmvc\ioxdemo\bin\System.Web.Mvc.xml
+D:\iox Prime\ioxmvc\ioxdemo\bin\System.Web.Optimization.xml
+D:\iox Prime\ioxmvc\ioxdemo\bin\System.Web.Razor.xml
+D:\iox Prime\ioxmvc\ioxdemo\bin\System.Web.WebPages.xml
+D:\iox Prime\ioxmvc\ioxdemo\bin\System.Web.WebPages.Deployment.xml
+D:\iox Prime\ioxmvc\ioxdemo\bin\System.Web.WebPages.Razor.xml
+D:\iox Prime\ioxmvc\ioxdemo\bin\Antlr3.Runtime.pdb
+D:\iox Prime\ioxmvc\ioxdemo\bin\EntityFramework.xml
+D:\iox Prime\ioxmvc\ioxdemo\bin\EntityFramework.SqlServer.xml
+D:\iox Prime\ioxmvc\ioxdemo\bin\Microsoft.AspNet.Identity.Core.xml
+D:\iox Prime\ioxmvc\ioxdemo\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\iox Prime\ioxmvc\ioxdemo\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\iox Prime\ioxmvc\ioxdemo\bin\Microsoft.Owin.xml
+D:\iox Prime\ioxmvc\ioxdemo\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\iox Prime\ioxmvc\ioxdemo\bin\Microsoft.Owin.Security.xml
+D:\iox Prime\ioxmvc\ioxdemo\bin\Microsoft.Owin.Security.Facebook.xml
+D:\iox Prime\ioxmvc\ioxdemo\bin\Microsoft.Owin.Security.Cookies.xml
+D:\iox Prime\ioxmvc\ioxdemo\bin\Microsoft.Owin.Security.OAuth.xml
+D:\iox Prime\ioxmvc\ioxdemo\bin\Microsoft.Owin.Security.Google.xml
+D:\iox Prime\ioxmvc\ioxdemo\bin\Microsoft.Owin.Security.Twitter.xml
+D:\iox Prime\ioxmvc\ioxdemo\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\iox Prime\ioxmvc\ioxdemo\bin\Microsoft.ApplicationInsights.xml
+D:\iox Prime\ioxmvc\ioxdemo\bin\Microsoft.AI.DependencyCollector.xml
+D:\iox Prime\ioxmvc\ioxdemo\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\iox Prime\ioxmvc\ioxdemo\bin\Microsoft.AI.WindowsServer.xml
+D:\iox Prime\ioxmvc\ioxdemo\bin\Microsoft.AI.Web.xml
+D:\iox Prime\ioxmvc\ioxdemo\obj\Debug\ioxdemo.dll
+D:\iox Prime\ioxmvc\ioxdemo\obj\Debug\ioxdemo.pdb
+D:\iox Prime\ioxmvc\ioxdemo\obj\Debug\ioxdemo.csprojAssemblyReference.cache
+D:\iox Prime\ioxmvc\ioxdemo\obj\Debug\ioxdemo.csproj.CopyComplete

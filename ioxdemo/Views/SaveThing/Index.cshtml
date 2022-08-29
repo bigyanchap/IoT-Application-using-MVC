@@ -1,0 +1,199 @@
+﻿@model ioxdemo.Models.PinVM2
+@{
+    ViewBag.Title = "Index";
+}
+<div class="container">
+    <div class="form-group">
+        <div class="row" style="margin-bottom:5px;">
+            <span class="col-md-12">Thing Name</span>
+            <div class="col-xs-12 col-sm-10 col-md-9 col-lg-7 col-xl-5">
+                <input type="text" id="thingname" class="form-control" placeholder="e.g. Garage RPi" style="max-width:100%;" />
+            </div>
+        </div>
+        <div id="ulist" style="margin-bottom:5px;">
+            <ul class="list-group">
+                <li class="list-group-item">
+                    <span class="close" style="text-align:right;"><i style="visibility:hidden" class="fa fa-times"></i></span>                    
+                    <div class="row">
+                        <div class="col-xs-12 col-sm-12 col-md-6 col-lg-5 col-xl-4" style="max-width:100%;">
+                            <span>Pin Name</span>
+                            @Html.TextBoxFor(model => model.PinName, new { @class = "form-control pinname", @placeholder = "e.g. Lamp1 - GPIO14" })
+                            @*<input type="text" class="pinname form-control" placeholder="e.g. Lamp1 - GPIO14"/>*@
+                        </div>
+                        <div class="col-xs-12 col-sm-12 col-md-6 col-lg-5 col-xl-4" style="max-width:100%;">
+                            <span>Pin Type</span>
+                            @Html.DropDownListFor(model => model.PinTypeId, ViewBag.PinTypeList as SelectList, "--choose control type--", new { @class = "pintypeid form-control" })
+                        </div>
+                    </div>
+                </li>
+            </ul>
+        </div>
+        <div style="margin-bottom:5px;">
+            <button id="newpin" class="btn gradient-blue" onclick="AddNewPin()" style="font-size:24px" disabled="disabled"><i class="fa fa-plus-circle"></i>&nbsp;New Pin</button>
+        </div>
+        <div>
+            <span id="required" class="text-danger bg-light rounded border-danger" style="display:none">All Fields required!!!</span>
+        </div>
+        <div class="row" style="margin-bottom:5px;">
+            <div class="col-xs-8 col-sm-4 col-md-3 col-lg-2 col-xl-2">
+                <button id="btnaddthing" class="btn btn-block gradient-green" style="max-width:100%; margin-top:10px; font-size:24px" onclick="AddThingPins()">Save <i class="fa fa-save"></i></button>
+            </div>
+            <div class="col-xs-8 col-sm-4 col-md-3 col-lg-2 col-xl-2">
+                <button id="btncancel" class="btn btn-block gradient-gray" style="max-width:100%; margin-top:10px; font-size:24px;" onclick="CancelThingPins()">Cancel</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div id="alertmodal" class="modal fade"
+        tabindex="-1" data-keyboard="false" role="dialog">
+    <div class="modal-dialog modal-lg" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h6 class="modal-title" style="color:cornflowerblue;">Discard?</h6>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <div style="font-size:large">Are you sure you want to Discard?</div>
+                <span style="font-size:small">You may want to fill this form.</span>
+            </div>
+            <div class="modal-footer">
+                <div>
+                    <button class="btn gradient-gray" data-dismiss="modal" aria-label="Close">
+                        Do Not Discard
+                    </button>
+                    <button class="btn gradient-blue"
+                            onclick="RedirectToPopulateThing()">
+                        Discard
+                    </button>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</div>    
+@section scripts{
+<script>
+    function AddNewPin() {
+        $('#ulist ul').append(
+            '<li class="list-group-item">'
+            +'  <span class="close cancelpin" onclick="CancelPin(this)" style="text-align:right;"><i class="fa fa-times"></i></span> '
+            +'  <div class="row">'
+            +'      <div class="col-xs-12 col-sm-12 col-md-6 col-lg-5 col-xl-4" style="max-width:100%;">'
+            +'          <span>Pin Name</span>'
+            +'          <input class="form-control pinname" name="PinName" placeholder="e.g. Light2 - GPIO12" type="text" value="" />'
+            +'      </div>'
+            +'      <div class="col-xs-12 col-sm-12 col-md-6 col-lg-5 col-xl-4" style="max-width:100%;">'
+            +'          <span>Pin Type</span>'
+            +'          <select class="pintypeid form-control" name="PinTypeId"><option value="">--choose control type--</option>'
+            +'              <option value="1">on-off</option>'
+            +'              <option value="2">magnitude</option>'
+            +'              <option value="3">timer</option>'
+            +'          </select>'
+            +'      </div>'
+            +'  </div>'
+            +'</li>'
+        );
+    }
+
+    $('#ulist ul').on('keyup input', function () {
+        if (($('.pinname').val() != "") && (($('.pintypeid').val() != ""))) {
+            $("#newpin").removeAttr('disabled');
+        } else {
+            $("#newpin").attr('disabled', 'disabled');
+        }
+    });
+    function CancelPin(obj) {
+        $(obj).parent().remove();
+    }
+    function CancelThingPins() {
+        var empty = true;
+        if ($('#thingname').val() !== "") empty = false;
+
+        $("#ulist > ul li").each(function (index, item) {
+            if ($(".pinname", item).val() !== "") empty = false;
+            if ($(".pintypeid", item).val() !== "") empty = false;
+        });
+        /*Redirect directly to previous page if all fields empty*/
+        if (empty) {
+            RedirectToPopulateThing();
+        }
+        /*Alert when at least one field is filled*/
+        else {
+            $('#alertmodal').modal('show');
+        }
+    }
+    function RedirectToPopulateThing() {
+        window.location = '/PopulateThing/Index';
+    }
+    function AddThingPins() {
+        var empty = false;/*For validation*/
+        if ($('#thingname').val() == "") empty = true;
+        
+        $("#ulist > ul li").each(function (index, item) {
+                if ($(".pinname", item).val() == "") empty = true;
+                if ($(".pintypeid", item).val() == "") empty = true;
+        });
+
+        if (empty) {
+            $('#required').show();
+        }
+        else
+        {
+            var tdata = {
+                ThingName: $('#thingname').val()
+            };
+            var PinsArr = new Array();
+            $("#ulist > ul li").each(function (index, item) {
+                var liElem = {
+                    PinName: $(".pinname", item).val(),
+                    PinTypeId:Number($(".pintypeid", item).val())
+                };
+                PinsArr.push(liElem);
+            });
+            var pdata = JSON.stringify(PinsArr);
+            var data = { ThingName: $('#thingname').val(), PinsJson: pdata };
+            console.log(data);
+            $.ajax({
+                method: 'post',
+                url: '/SaveThing/SaveThingPin',
+                data:data,
+                success: function () {
+                    $.toast({
+                        text: "Saved.",
+                        heading: 'Success',
+                        icon: 'success',
+                        showHideTransition: 'fade',
+                        allowToastClose: true,
+                        hideAfter: 1000,
+                        stack: 5,
+                        position: 'bottom-center',
+                        textAlign: 'center',
+                        loader: false,
+                        bgColor: '#11af08dd'
+                    });
+                    setInterval(function () {
+                        window.location = '/PopulateThing/Index';
+                    }, 1050);
+                },
+                error: function(){
+                    $.toast({
+                        text: "Try Again.",
+                        heading: 'Error',
+                        icon: 'error',
+                        showHideTransition: 'fade',
+                        allowToastClose: true,
+                        hideAfter: 1000,
+                        stack: 5,
+                        position: 'bottom-center',
+                        textAlign: 'center',
+                        loader: false
+                    });
+                }
+            });
+        }
+    }
+</script>    
+}

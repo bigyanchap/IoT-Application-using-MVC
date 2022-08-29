@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="IoXDBModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Pin">
+    <Key>
+      <PropertyRef Name="PinId" />
+    </Key>
+    <Property Name="PinId" Type="Int16" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="PinName" Type="String" MaxLength="30" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="ThingId" Type="Int32" Nullable="false" />
+    <Property Name="PinType" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+    <Property Name="OnOff" Type="Boolean" />
+    <Property Name="Magnitude" Type="Int32" />
+    <Property Name="OnFrom" Type="DateTime" Precision="3" />
+    <Property Name="OnTill" Type="DateTime" Precision="3" />
+    <Property Name="LastModified" Type="Binary" MaxLength="8" FixedLength="true" annotation:StoreGeneratedPattern="Computed" />
+    <NavigationProperty Name="Thing" Relationship="Self.FK__Pin__ThingId__5EBF139D" FromRole="Pin" ToRole="Thing" />
+  </EntityType>
+  <EntityType Name="Thing">
+    <Key>
+      <PropertyRef Name="ThingId" />
+    </Key>
+    <Property Name="ThingId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="ThingName" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="ExtraInfo" Type="String" MaxLength="1000" FixedLength="false" Unicode="true" />
+    <Property Name="IsDeleted" Type="Boolean" />
+    <NavigationProperty Name="Pins" Relationship="Self.FK__Pin__ThingId__5EBF139D" FromRole="Thing" ToRole="Pin" />
+  </EntityType>
+  <Association Name="FK__Pin__ThingId__5EBF139D">
+    <End Role="Thing" Type="Self.Thing" Multiplicity="1" />
+    <End Role="Pin" Type="Self.Pin" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Thing">
+        <PropertyRef Name="ThingId" />
+      </Principal>
+      <Dependent Role="Pin">
+        <PropertyRef Name="ThingId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="IoXDBContext" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Pins" EntityType="Self.Pin" />
+    <EntitySet Name="Things" EntityType="Self.Thing" />
+    <AssociationSet Name="FK__Pin__ThingId__5EBF139D" Association="Self.FK__Pin__ThingId__5EBF139D">
+      <End Role="Thing" EntitySet="Things" />
+      <End Role="Pin" EntitySet="Pins" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

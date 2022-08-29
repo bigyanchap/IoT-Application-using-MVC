@@ -1,0 +1,637 @@
+﻿@model IEnumerable<ioxdemo.Models.ThingPinVM>
+@{
+    ViewBag.Title = "Populate Thing";
+}
+<link href="~/Content/toggle-switch.css" rel="stylesheet" />
+<link href="~/Content/range-slide.css" rel="stylesheet" />
+<h4>My Things Control Panel</h4>
+@if (Model != null)
+{
+    <script>
+        var infoArray = [];
+        var indexA = 0;
+    </script>
+    foreach (var item in Model)
+    {
+        <div class="" id="row_@item.ThingId">
+            <div class="card">
+                <div class="card-header">
+                    <h2 class="panel-title" title="Your Controller Device Name" style="color:#2196F3; display:inline;">@item.ThingName</h2>
+                    <span style="display: inline; float:right;">
+                        <a href="#delmodal" data-toggle="modal" data-thingid="@item.ThingId">
+                            <i class="fa fa-trash fa-2x iox-blue"></i>
+                        </a>
+                        &nbsp;
+                        <a href="../SaveThing/Edit/@item.ThingId" >
+                            <i class="fa fa-pencil fa-2x iox-blue"></i>
+                        </a>
+                    </span>
+                </div>
+                <div class="card-body" style="background-image: linear-gradient(to bottom right, #eeeeee, #dddddd);">
+                    <ul style="list-style:none; padding:0px;">
+                        <li>
+                            <div>
+                                <ul style="list-style:none; padding:0px;" class="row">
+                                    @foreach (ioxdemo.Models.Pin pin in item.Pins)
+                                    {
+                                        <li class="col-12 col-sm-6 col-md-4 col-lg-3">
+                                            <strong>@pin.PinName</strong>
+                                            @{
+                                                switch (pin.PinTypeId)
+                                                {
+                                                    case 1:/*binary | on-off*/
+                                                        var onOff = pin.OnOff;
+                                                        <div style="vertical-align:central;" title="on-off control">
+                                                            <label class="switch">
+                                                                <input type="checkbox" @(onOff == true ? "checked" : "")
+                                                                       onclick="putBinaryDynamicPin(@pin.PinId)">
+                                                                <span class="slider round"></span>
+                                                            </label>
+                                                        </div>
+                                                        break;
+                                                    case 2:/*magnitude*/
+                                                        var mag = pin.Magnitude;
+                                                        <div style="vertical-align:central;" title="precise control">
+                                                            <input id="mag_input_@pin.PinId"
+                                                                   type="range" min="0" max="1023"
+                                                                   value="@mag" class="rangeslider" style="width:180px; display:inline;"
+                                                                   onchange="putMagnitudeDynamicPin(this.value,@pin.PinId)"
+                                                                   oninput="sliderOnInput(this.value,@pin.PinId)">
+                                                            <span id="magnitude_@pin.PinId" style="display:inline;">
+                                                                @mag
+                                                            </span>
+
+                                                        </div>
+                                                        break;
+                                                    case 3:/*timer*/
+                                                        <div title="Timing Control" id="time_@pin.PinId">
+                                                            <a href="javascript:void(0);" title="choose time interval" style="display:inline-block;margin-right: 20px;"
+                                                               class="btn gradient-gray" onclick="showIntervalPicker(@pin.PinId,'@pin.PinName')">
+                                                                <i class="fa fa-clock-o fa-2x iox-blue"></i>
+                                                            </a>
+                                                            <button id="btnCancelTimer_@pin.PinId"
+                                                                    title="stop it" style="display:none;"
+                                                                    class="btn btn-sm gradient-gray" onclick="putDateTimeTerminatePin(@pin.PinId)">
+                                                                <i class="fa fa-stop-circle fa-2x iox-blue"></i>
+                                                            </button>
+                                                            <br />
+                                                            @* expose Step Signal Info *@
+                                                            <span id="timedisp_@pin.PinId"></span>
+                                                            <script>
+                                                                infoArray[indexA] = '{'+"\"PinId\":"+@pin.PinId+','+"\"OnFrom\""+':'+"\"@pin.OnFrom\""+','+"\"OnTill\""+':'+"\"@pin.OnTill\""+'},';
+                                                                indexA = indexA + 1;
+                                                            </script>
+                                                        </div>
+                                                        break;
+
+
+                                                    default:
+                                                        <div>You entered Invalid values. Reload and Try Again.</div>
+
+                                                        break;
+                                                }
+                                            }
+                                            <br />
+                                        </li>
+                                    }
+                                </ul>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+
+                <div class="card-footer" title="Extra Information for your Controller Device">
+                    <span class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                        Thing's Sensor Info:
+                    </span>
+                    @item.SensorsInfo
+                    <br />
+                </div>
+            </div>
+            <br />
+        </div>
+    }
+}
+
+@* interval picker modal: *@
+@if (Model != null)
+{
+    <div id="divCalendarmodal" class="modal fade" title="Interval Picker"
+         tabindex="-1" data-keyboard="false" role="dialog">
+        <div class="modal-dialog modal-lg" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h6 class="modal-title" style="color:cornflowerblue;"></h6>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    <div id="divDateTimeQuick">
+                        <span style="display:inline"><strong>Quick</strong> Pick:</span>
+                        <input type="number" onkeypress="return event.charCode >= 38"
+                               class="inputquickmins form-control" step="10" value="" min="1" max="9999"
+                               style="max-width:100px !important; display:inline;" />
+                        <span style="display:inline">minutes from now</span>
+                        <button class="btn gradient-green" id="btnPutDateTimeQuickPin"
+                                onclick="putDateTimeQuickPin()" disabled="disabled" style="margin:2px;">
+                            Go&rarr;
+                        </button>
+                    </div>
+                    <hr />
+                    <div><strong>Interval</strong> Pick:</div>
+
+                    <div id="dtform" class="row">
+                        <div class='col-12 col-lg-6' title='Start Date Time'>
+                            <span>Starts:</span>
+                            <input id="inputonfrom" type="text" data-field="datetime"
+                                   style="color:cornflowerblue; min-width:100%; margin-bottom:3px;" class="form-control" readonly />
+                            <div id="dtonfromBox"></div>
+                        </div>
+                        <div class='col-12 col-lg-6' title="End Date Time">
+                            <span>Ends:</span>
+                            <input id="inputontill" type="text" data-field="datetime"
+                                   style="color:cornflowerblue; min-width:100%; margin-bottom:3px;" class="form-control" readonly />
+                            <div id="dtontillBox"></div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="modal-footer">
+                    <div id="dtconflicterror" class="text-danger badge-light"></div>
+                    <div>
+                        <button id="btnPutDateTimeDetailPin" class="btn gradient-green"
+                                onclick="putDateTimeDetailPin()" disabled="disabled">
+                            Go&rarr;
+                        </button>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+<textarea id="infoArray" rows="5" class="form-control" hidden="hidden"></textarea>
+
+}
+<div id="delmodal" class="modal fade"
+     tabindex="-1" data-keyboard="false" role="dialog">
+    <div class="modal-dialog modal-lg" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h6 class="modal-title" style="color:cornflowerblue;">Delete?</h6>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <div style="font-size:large">Are you sure you want to Delete?</div>
+                <input id="thing-id" type="text" name="thingId" value=""  hidden="hidden"/>
+            </div>
+            <div class="modal-footer">
+                <div>
+                    <button class="btn gradient-gray" data-dismiss="modal" aria-label="Close">
+                        Cancel
+                    </button>
+                    <button class="btn gradient-blue" onclick="deleteThing()">
+                        Delete
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<a href="/SaveThing/Index" class='btn col-12 col-lg-3 col-md-4 col-sm-6 gradient-gray' title='Add Thing'>
+    <i class="fa fa-plus iox-blue" style="font-size:100px;"></i>
+</a>
+
+@section scripts{
+    <script>
+        
+        var timer;
+        $(document).ready(function () {
+            var iArray = $("#infoArray").append(infoArray);
+            var iArray = $("#infoArray").val();
+            iArray = '[' + iArray.slice(0, iArray.length - 1) + ']';/*I remove last comma.*/
+            infoArray = JSON.parse(iArray);
+            timer();
+        });
+        timer = function () {
+            var pinId;
+            for (var i = 0; i < infoArray.length; i++) {
+                pinId = infoArray[i].PinId;
+                if ((+new Date()) < Date.parse(infoArray[i].OnFrom) && (+new Date()) < Date.parse(infoArray[i].OnTill)) {
+                    $("#btnCancelTimer_" + pinId).css('display', 'inline-block').show();
+                    $("#timedisp_" + pinId).countdown(Date.parse(infoArray[i].OnFrom), function (event) {
+                        $(this).html(event.strftime('<b>turns on in %D d %H:%M:%S</b>')).css("color", "blue");
+
+                    }).on('finish.countdown', function (event) {
+                        window.location.reload();
+                    });
+                    //console.log("pinId:" + pinId + " on from: " + Date.parse(infoArray[i].OnFrom));
+                } else if (Date.parse(infoArray[i].OnFrom) < (+new Date()) && (+new Date()) < Date.parse(infoArray[i].OnTill)) {
+                    $("#btnCancelTimer_" + pinId).css('display', 'inline-block').show();
+                    $("#timedisp_" + pinId).countdown(Date.parse(infoArray[i].OnTill), function (event) {
+                        $(this).html(event.strftime('<b>turns off in %D d %H:%M:%S</b>')).css("color", "rgb(4, 204, 4)");
+                    }).on('finish.countdown', function (event) {
+                        $(this).html(
+                            '<span class="badge" style="background-color:#d7c2c2;color:#ff4e00;">off</span>'
+                        ).parent().addClass('disabled');
+                        $("#btnCancelTimer_" + pinId).hide(300);
+                        $.toast({
+                            text: "Process Complete.",
+                            heading: 'Ends',
+                            icon: 'success',
+                            showHideTransition: 'fade',
+                            allowToastClose: true,
+                            hideAfter: 1000,
+                            stack: 5,
+                            position: 'bottom-center',
+                            textAlign: 'center',
+                            loader: false,
+                            bgColor: '#11af08dd'
+                        });
+                    });
+                } else if (Date.parse(infoArray[i].OnFrom) < (+new Date()) && Date.parse(infoArray[i].OnTill) < (+new Date())) {
+                    $("#timedisp_" + pinId).html(
+                        '<span class="badge" style="background-color:#d7c2c2;color:#ff4e00;">off</span>'
+                    );
+                } else {
+                    $("#timedisp_" + pinId).html('Please enter valid date and time.').css("color", "orangered");
+                }
+            }
+        }
+
+        var pinIdForModal;
+        var pinNameForModal;
+        function showIntervalPicker(pinId, pinName) {
+            $('#divCalendarmodal').modal('show');
+            datetimepickerhidden = false;
+            pinIdForModal = pinId;
+            pinNameForModal = pinName;
+            $('#divCalendarmodal .modal-title').html("Choose Turn On Interval for " + pinNameForModal);
+            /*validations - go button disable - datetime quick*/
+            $('#divDateTimeQuick .inputquickmins').on('mouseleave input', function () {
+                if ($(this).val() < 1) {
+                    $('#btnPutDateTimeQuickPin').attr('disabled', 'disabled');
+                } else {
+                    $('#btnPutDateTimeQuickPin').removeAttr('disabled');
+                }
+            });
+            /*validations - go button disable - datetime interval*/
+            $('#dtform').on('change input', function () {
+                //debugger;
+                if (Date.parse($('#inputonfrom').val()) >= Date.parse($('#inputontill').val())) {
+                    //debugger;
+                    $("#btnPutDateTimeDetailPin").attr('disabled', 'disabled');
+                    $("#dtconflicterror").html('Starting Date must be earlier than Ending Date.').fadeIn(300);
+                } else {
+                    //debugger;
+                    $("#btnPutDateTimeDetailPin").removeAttr('disabled');
+                    $("#dtconflicterror").fadeOut(300).html('');
+                }
+            });
+        }
+
+        $(document).ready(function () {
+            $('#dtonfromBox').DateTimePicker({
+                isInline: true,
+                inputElement: $("#inputonfrom"),
+                buttonsToDisplay: [],
+                showHeader: false,
+                readonlyInputs: false,
+                setValueInTextboxOnEveryClick: true,
+                init: function () {
+                    var oDTP = this;
+                    oDTP.setDateTimeStringInInputField();
+                },
+                minDateTime: new Date(),
+                maxDateTime: new Date(new Date().getTime() + (100 * 86400000)),
+                defaultDate: new Date(),
+                dateTimeFormat: "yyyy-MM-dd hh:mm:ss AA"
+            });
+            $('#dtontillBox').DateTimePicker({
+                isInline: true,
+                inputElement: $("#inputontill"),
+                buttonsToDisplay: [],
+                showHeader: false,
+                readonlyInputs: false,
+                setValueInTextboxOnEveryClick: true,
+                init: function () {
+                    var oDTP = this;
+                    oDTP.setDateTimeStringInInputField();
+                },
+                minDateTime: new Date(),
+                //minDateTime: new Date(new Date().getTime() + (1*60 * 1000)), /*OneMinutefromnow*/
+                maxDateTime: new Date(new Date().getTime() + (200 * 86400000)), /*TwoHundredDaysFromNow*/
+                defaultDate: new Date(),
+                dateTimeFormat: "yyyy-MM-dd hh:mm:ss AA"
+            });
+        });
+
+        function putDateTimeDetailPin() {
+            var data = {
+                PinId: pinIdForModal,
+                OnFrom: $('#inputonfrom').val(),
+                OnTill: $('#inputontill').val()
+            };
+            $.ajax({
+                method: 'post',
+                url: '/PopulateThing/PutDateTimeDetailPin',
+                data: data,
+                success: function (data) {
+                    console.log("PinId=" + pinIdForModal + ": DATETIME post successful!");
+
+                    var index = getPinIdIndex(pinIdForModal);
+                    infoArray[index].OnFrom = $('#inputonfrom').val();
+                    infoArray[index].OnTill = $('#inputontill').val();
+                    /*Although there is a validation which prevents ensuing event, we still put this.*/
+                    if (Date.parse(infoArray[index].OnTill) < (+new Date())) {
+                        $.toast({
+                            text: "You Chose Elapsed Time.",
+                            heading: 'Info',
+                            icon: 'info',
+                            showHideTransition: 'fade',
+                            allowToastClose: true,
+                            hideAfter: 1000,
+                            stack: 5,
+                            position: 'bottom-center',
+                            textAlign: 'center',
+                            loader: false,
+                            bgColor: '#ffaf08dd'
+                        });
+                    }
+
+                    $('.modal').modal('hide');
+                    $('.modal').on('hidden.bs.modal', function () {
+                        $(this).data('bs.modal', null);
+                    });
+                    console.log(infoArray);
+
+                    window.location.reload();
+                    //$("#time_" + pinIdForModal).load(" #time_" + pinIdForModal);
+                },
+                error: function (err) {
+                    console.log(err);
+                    $.toast({
+                        text: "Try again.",
+                        heading: 'Danger',
+                        icon: 'danger',
+                        showHideTransition: 'fade',
+                        allowToastClose: true,
+                        hideAfter: 1000,
+                        stack: 5,
+                        position: 'bottom-center',
+                        textAlign: 'center',
+                        loader: false,
+                        bgColor: '#ef5b4add'
+                    });
+                    window.location.reload();
+                    //reload whole page in case of error.
+                }
+            });
+        }
+
+        function putDateTimeQuickPin() {
+            var data = {
+                PinId: pinIdForModal,
+                AddMinutes: $('.inputquickmins').val()
+            };
+            $.ajax({
+                method: 'post',
+                url: '/PopulateThing/PutDateTimeQuickPin',
+                data: data,
+                //dataType: 'json',
+                success: function (data) {
+                    console.log("PinId=" + pinIdForModal + ": DATETIME post successful!");
+                    /*update infoArray*/
+                    var index = getPinIdIndex(pinIdForModal);
+                    infoArray[index].OnFrom = $('#inputonfrom').val();
+                    infoArray[index].OnTill = $('#inputontill').val();
+                    $('.modal').modal('hide');
+                    $('.modal').on('hidden.bs.modal', function () {
+                        $(this).data('bs.modal', null);
+                    });
+                    //$("#timedisp_" + pinIdForModal).countdown('stop');
+                    //$("#timedisp_" + pinIdForModal).countdown(Date.parse(infoArray[index].OnTill));
+                    console.log(infoArray);
+                    //reset timer
+                    window.location.reload();
+                    //$("#time_" + pinIdForModal).load(" #time_" + pinIdForModal);
+                },
+                error: function (err) {
+                    alert(err);
+                    $.toast({
+                        text: "Try again.",
+                        heading: 'Danger',
+                        icon: 'danger',
+                        showHideTransition: 'fade',
+                        allowToastClose: true,
+                        hideAfter: 1000,
+                        stack: 5,
+                        position: 'bottom-center',
+                        textAlign: 'center',
+                        loader: false,
+                        bgColor: '#ef5b4add'
+                    });
+                    window.location.reload();
+                    //and reload whole page in case of error.
+                }
+            });
+        }
+
+        function deleteThing() {
+            var thingId = $('#thing-id').val();
+            $.ajax({
+                method: 'post',
+                url: '/PopulateThing/DeleteThing',
+                data: { ThingId:thingId},
+                success: function () {
+                    $('#delmodal').modal('hide');
+                    $("#row_" + thingId).hide(300);
+                },
+                error: function (err) {
+                    console.log(err);
+                    $.toast({
+                        text: "Try again.",
+                        heading: 'Danger',
+                        icon: 'danger',
+                        showHideTransition: 'fade',
+                        allowToastClose: true,
+                        hideAfter: 1000,
+                        stack: 5,
+                        position: 'bottom-center',
+                        textAlign: 'center',
+                        loader: false,
+                        bgColor: '#ef5b4add'
+                    });
+                    //window.location.reload();
+                    /*and reload whole page in case of error.*/
+                }
+            });
+        }
+
+        function putDateTimeTerminatePin(pinId) {
+            var data = {
+                PinId: pinId
+            };
+            $.ajax({
+                method: 'post',
+                url: '/PopulateThing/PutDateTimeTerminatePin',
+                data: data,
+                success: function () {
+                    console.log("PinId=" + pinId + ": DATETIME Terminate post successful!");
+                    $("#btnCancelTimer_" + pinId).hide(300);
+
+                    /*reload div*/
+                    $("#timedisp_" + pinId).countdown('stop');
+                    //$('#time_' + pinId).load(" #time_" + pinId);
+                    window.location.reload();
+                },
+                error: function (err) {
+                    console.log(err);
+                    $.toast({
+                        text: "Try again.",
+                        heading: 'Danger',
+                        icon: 'danger',
+                        showHideTransition: 'fade',
+                        allowToastClose: true,
+                        hideAfter: 1000,
+                        stack: 5,
+                        position: 'bottom-center',
+                        textAlign: 'center',
+                        loader: false,
+                        bgColor: '#ef5b4add'
+                    });
+                    window.location.reload();
+                    //and reload whole page in case of error.
+                }
+            });
+        }
+
+        /*see sliding value dynamically*/
+        function sliderOnInput(magnitude, pinId) {
+            var slideval = document.getElementById("magnitude_" + pinId);
+            slideval.innerHTML = magnitude;
+        }
+
+        function putMagnitudeDynamicPin(magnitude, pinId) {
+            var data = { PinId: pinId, Magnitude: magnitude };
+            $.ajax({
+                method: 'post',
+                url: '/PopulateThing/PutMagnitudeDynamicPin',
+                data: data,
+                success: function () {
+                    //console.log("PinId=" + pinId + " & Mag: " +magnitude + " : post successful!");
+                    $.toast({
+                        text: "Post done.",
+                        heading: 'Success',
+                        icon: 'success',
+                        showHideTransition: 'fade',
+                        allowToastClose: true,
+                        hideAfter: 1000,
+                        stack: 5,
+                        position: 'bottom-center',
+                        textAlign: 'center',
+                        loader: false,
+                        bgColor: '#11af08dd'
+                    });
+                },
+                error: function (err) {
+                    console.log(err);
+                    $.toast({
+                        text: "Try again.",
+                        heading: 'Danger',
+                        icon: 'danger',
+                        showHideTransition: 'fade',
+                        allowToastClose: true,
+                        hideAfter: 1000,
+                        stack: 5,
+                        position: 'bottom-center',
+                        textAlign: 'center',
+                        loader: false,
+                        bgColor: '#ef5b4add'
+                    });
+                    window.location.reload();
+                    //and reload whole page in case of error.
+                }
+            });
+        }
+
+        function putBinaryDynamicPin(pinId) {
+            var data = { PinId: pinId };
+            $.ajax({
+                method: 'post',
+                url: '/PopulateThing/PutBinaryDynamicPin',
+                data: data,
+                success: function () {
+                    //console.log("PinId=" + pinId + ": post successful!");
+                    $.toast({
+                        text: "Post done.",
+                        heading: 'Success',
+                        icon: 'success',
+                        showHideTransition: 'fade',
+                        allowToastClose: true,
+                        hideAfter: 1000,
+                        stack: 5,
+                        position: 'bottom-center',
+                        textAlign: 'center',
+                        loader: false,
+                        bgColor: '#11af08dd'
+                    });
+                },
+                error: function (err) {
+                    console.log(err);
+                    $.toast({
+                        text: "Try again.",
+                        heading: 'Danger',
+                        icon: 'danger',
+                        showHideTransition: 'fade',
+                        allowToastClose: true,
+                        hideAfter: 1000,
+                        stack: 5,
+                        position: 'bottom-center',
+                        textAlign: 'center',
+                        loader: false,
+                        bgColor: '#ef5b4add'
+                    });
+                    window.location.reload();
+                    //and reload whole page in case of error..
+                }
+            });
+        }
+
+        /*Convert Date Time String Format 7/20/2018 16:12:08*/
+        function ConvertToDTstring(dtjson) {
+            var str = dtjson.toString();
+            var date = new Date(parseInt(str.substr(6)));
+            var day = date.getDate();
+            var month = date.getMonth() + 1;
+            var year = date.getFullYear();
+            var hour = date.getHours();
+            var minutes = date.getMinutes();
+            var seconds = date.getSeconds();
+            return ('"' + month + "/" + day + "/" + year + " " + hour + ":" + minutes + ":" + seconds + '"').toString();
+        }
+
+        function ConvertToDTstamp(dtjson) {
+            var str = dtjson.toString();
+            return parseInt(str.substr(6));
+        }
+        function ConvertToDTstamp2(dt) {
+            return "/Date(" + Date.parse(dt) + ")/";
+        }
+
+        function getPinIdIndex(id) {
+            for (var i = 0; i < infoArray.length; i++) {
+                if (infoArray[i].PinId == id) return i;
+            }
+            return 0;
+        }
+
+        $('#delmodal').on('show.bs.modal', function (e) {
+            var thingId = $(e.relatedTarget).data('thingid');
+            $(e.currentTarget).find('input[name="thingId"]').val(thingId);
+        });
+    </script>
+}

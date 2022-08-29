@@ -1,0 +1,143 @@
+﻿body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+/* Set padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+/* Override the default bootstrap behavior where horizontal description lists 
+   will truncate terms that are too long to fit in the left column 
+    
+*/
+.dl-horizontal dt {
+    white-space: normal;
+}
+
+/* Set width on the form input elements since they're 100% wide by default */
+input,
+select,
+textarea {
+    max-width: inherit;
+}
+.border-light {
+    border: 2px solid #ccc9c9;
+    border-radius: 10px;
+}
+.border-super-light {
+    border: 2px solid #e0e0e0;
+    border-radius: 10px;
+}
+body {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.margin-bottom-20{
+    margin-bottom:20px;
+}
+.turnedon {
+    height: 12px;
+    width: 12px;
+    background-color: #92ff84;
+    border: 6px solid #2196F3;
+    border-radius: 50%
+}
+
+.turnedoff {
+    height: 12px;
+    width: 12px;
+    background-color: #fff;
+    border: 6px solid #ccc;
+    border-radius: 50%
+}
+.iox-blue {
+    color: #2196F3;
+}
+
+body .modal-open {
+    overflow: visible;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
+
+.gradient-gray {
+    background-image: radial-gradient(#eee, #bbb);
+    background-color: #bbb;
+    color:#777;
+}
+    .gradient-gray:hover {
+        background-image: radial-gradient(#eee, #999);
+        background-color: #999;
+        color:#555;
+    }
+    .gradient-gray:disabled {
+        background-image: radial-gradient(#eee, #999);
+        background-color: #999;
+    }
+.gradient-green {
+    background-image: radial-gradient(#5aec1c, #519e30);
+    background-color: #519e30;
+    color: #eeeeee;
+}
+
+    .gradient-green:hover {
+        background-image: radial-gradient(#52ff09, #52bb25);
+        background-color: #52bb25;
+        color: #ffffff;
+    }
+    .gradient-green:disabled {
+        background-image: radial-gradient(#52ff09, #52bb25);
+        background-color: #52bb25;
+    }
+.gradient-blue {
+    background-image: radial-gradient(#22dbe4, #1e9cff);
+    background-color: #1e9cff;
+    color: #ffffff;
+}
+
+    .gradient-blue:hover {
+        background-image: radial-gradient(#00edf9, #4aafff);
+        background-color: #4aafff;
+        color: #ffffff;
+    }
+    .gradient-blue:disabled {
+        background-image: radial-gradient(#00edf9, #4aafff);
+        background-color: #4aafff;
+    }
+.plus-child {
+    float: left;
+    align-self:center;
+}
+.bottom-sticky {
+    position: fixed;bottom: 0px;width: 900px;
+}
+
+.xmenucontainer {
+    display: inline-block;
+    cursor: pointer;
+}
+
+.xmenu-bar1, .xmenu-bar2, .xmenu-bar3 {
+    width: 35px;
+    height: 5px;
+    background-color: #2196F3;
+    margin: 6px 0;
+    transition: 0.4s;
+}
+
+.xmenuchange .xmenu-bar1 {
+    -webkit-transform: rotate(-45deg) translate(-9px, 6px);
+    transform: rotate(-45deg) translate(-9px, 6px);
+}
+
+.xmenuchange .xmenu-bar2 {
+    opacity: 0;
+}
+
+.xmenuchange .xmenu-bar3 {
+    -webkit-transform: rotate(45deg) translate(-8px, -8px);
+    transform: rotate(45deg) translate(-8px, -8px);
+}
